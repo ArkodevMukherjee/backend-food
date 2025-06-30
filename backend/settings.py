@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-7t%xx9raumlke5)f%rhlvoy6^=3f%*xdj(g$y8c8b3_^iasmbe'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["backend-food.onrender.com"]
+ALLOWED_HOSTS = ["https://backend-food-u1ei.onrender.com"]
 
 
 # Application definition
