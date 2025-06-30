@@ -1,0 +1,1001 @@
+name,description,category,price,calories,protein,fat,carbohydrates,image
+Greek Salad #1,Rich in flavor and nutrients.,Wrap,9.61,474,7.6,22.0,33.1,https://example.com/images/item_1.jpg
+Vegan Buddha Bowl #2,Rich in flavor and nutrients.,Dessert,6.5,543,13.1,22.7,47.7,https://example.com/images/item_2.jpg
+Caesar Salad #3,Rich in flavor and nutrients.,Wrap,6.9,437,9.3,6.1,34.8,https://example.com/images/item_3.jpg
+Lemonade #4,Served with a side of bread.,Burger,5.35,662,16.1,10.4,77.2,https://example.com/images/item_4.jpg
+Vegan Buddha Bowl #5,Served with a side of bread.,Dessert,8.25,230,19.3,9.3,13.6,https://example.com/images/item_5.jpg
+Cheeseburger #6,Served with a side of bread.,Sandwich,18.83,291,25.4,11.5,56.2,https://example.com/images/item_6.jpg
+Veggie Wrap #7,Topped with fresh herbs.,Salad,5.17,175,12.9,13.8,32.9,https://example.com/images/item_7.jpg
+Tomato Soup #8,A customer favorite with premium ingredients.,Dessert,6.66,357,23.6,6.5,54.3,https://example.com/images/item_8.jpg
+Greek Salad #9,A customer favorite with premium ingredients.,Bowl,5.83,619,15.6,13.5,23.8,https://example.com/images/item_9.jpg
+Chocolate Cake #10,Rich in flavor and nutrients.,Dessert,13.39,780,18.6,21.6,19.6,https://example.com/images/item_10.jpg
+Grilled Chicken Sandwich #11,Perfect for lunch or dinner.,Drink,14.63,210,27.8,8.6,25.4,https://example.com/images/item_11.jpg
+Vegan Buddha Bowl #12,Served with a side of bread.,Soup,7.46,751,29.5,21.8,30.0,https://example.com/images/item_12.jpg
+Grilled Chicken Sandwich #13,A customer favorite with premium ingredients.,Soup,8.84,707,23.8,13.1,29.3,https://example.com/images/item_13.jpg
+Vegan Buddha Bowl #14,Served with a side of bread.,Salad,10.33,568,12.0,18.8,14.5,https://example.com/images/item_14.jpg
+Veggie Wrap #15,A customer favorite with premium ingredients.,Drink,9.0,576,29.4,5.4,33.3,https://example.com/images/item_15.jpg
+Turkey Club Sandwich #16,Topped with fresh herbs.,Bowl,13.37,764,24.1,6.0,17.3,https://example.com/images/item_16.jpg
+Greek Salad #17,A customer favorite with premium ingredients.,Salad,11.99,398,11.0,4.2,56.6,https://example.com/images/item_17.jpg
+Caesar Salad #18,Delicious and freshly prepared.,Sandwich,15.45,693,25.2,20.8,43.9,https://example.com/images/item_18.jpg
+Cheeseburger #19,Delicious and freshly prepared.,Dessert,12.46,181,19.1,17.4,23.0,https://example.com/images/item_19.jpg
+Caesar Salad #20,Topped with fresh herbs.,Bowl,10.45,213,12.3,14.1,60.8,https://example.com/images/item_20.jpg
+Chicken Alfredo Pasta #21,Rich in flavor and nutrients.,Wrap,5.12,711,16.2,4.5,67.9,https://example.com/images/item_21.jpg
+Grilled Chicken Sandwich #22,Served with a side of bread.,Bowl,12.87,231,28.6,17.3,62.8,https://example.com/images/item_22.jpg
+Grilled Chicken Sandwich #23,Topped with fresh herbs.,Pasta,18.8,166,17.0,6.6,47.9,https://example.com/images/item_23.jpg
+Spaghetti Bolognese #24,Rich in flavor and nutrients.,Wrap,6.46,408,18.9,13.9,16.4,https://example.com/images/item_24.jpg
+Grilled Chicken Sandwich #25,Served with a side of bread.,Soup,8.21,336,25.2,13.9,36.0,https://example.com/images/item_25.jpg
+Vegan Buddha Bowl #26,Topped with fresh herbs.,Salad,6.9,779,28.6,23.4,42.2,https://example.com/images/item_26.jpg
+Veggie Wrap #27,Rich in flavor and nutrients.,Pasta,8.16,127,29.3,23.0,42.9,https://example.com/images/item_27.jpg
+Chocolate Cake #28,A customer favorite with premium ingredients.,Bowl,6.71,600,11.8,4.7,34.4,https://example.com/images/item_28.jpg
+Chicken Alfredo Pasta #29,Rich in flavor and nutrients.,Drink,19.45,461,20.5,14.5,17.4,https://example.com/images/item_29.jpg
+Turkey Club Sandwich #30,Served with a side of bread.,Pasta,7.49,390,22.6,10.9,45.7,https://example.com/images/item_30.jpg
+Chicken Alfredo Pasta #31,Perfect for lunch or dinner.,Soup,10.17,782,19.6,19.3,16.3,https://example.com/images/item_31.jpg
+Turkey Club Sandwich #32,Served with a side of bread.,Salad,18.49,797,18.0,8.5,71.4,https://example.com/images/item_32.jpg
+Lemonade #33,Served with a side of bread.,Burger,7.8,737,7.0,16.0,35.0,https://example.com/images/item_33.jpg
+Lemonade #34,Topped with fresh herbs.,Wrap,18.43,499,14.1,22.0,52.5,https://example.com/images/item_34.jpg
+Cheeseburger #35,A customer favorite with premium ingredients.,Drink,15.34,658,18.1,22.9,70.0,https://example.com/images/item_35.jpg
+Grilled Chicken Sandwich #36,A customer favorite with premium ingredients.,Soup,13.77,221,10.2,4.2,68.9,https://example.com/images/item_36.jpg
+Tomato Soup #37,Delicious and freshly prepared.,Salad,15.29,430,15.0,11.3,12.7,https://example.com/images/item_37.jpg
+Quinoa Salad #38,Perfect for lunch or dinner.,Sandwich,19.31,744,20.9,20.9,35.6,https://example.com/images/item_38.jpg
+Pepperoni Pizza #39,Topped with fresh herbs.,Pizza,11.05,351,17.9,9.8,62.7,https://example.com/images/item_39.jpg
+Tomato Soup #40,Delicious and freshly prepared.,Burger,5.05,361,17.7,14.2,20.8,https://example.com/images/item_40.jpg
+Vegan Buddha Bowl #41,Served with a side of bread.,Pasta,12.28,233,25.7,9.4,63.0,https://example.com/images/item_41.jpg
+Margherita Pizza #42,Delicious and freshly prepared.,Pizza,17.85,213,7.2,7.0,43.4,https://example.com/images/item_42.jpg
+Margherita Pizza #43,A customer favorite with premium ingredients.,Pizza,12.68,482,13.0,8.9,28.5,https://example.com/images/item_43.jpg
+Spaghetti Bolognese #44,Rich in flavor and nutrients.,Pizza,13.71,423,8.6,16.6,72.8,https://example.com/images/item_44.jpg
+Vegan Buddha Bowl #45,A customer favorite with premium ingredients.,Pizza,17.94,713,14.8,20.1,34.3,https://example.com/images/item_45.jpg
+Chicken Alfredo Pasta #46,Perfect for lunch or dinner.,Salad,8.58,659,19.1,15.9,27.7,https://example.com/images/item_46.jpg
+Cheeseburger #47,Perfect for lunch or dinner.,Dessert,7.6,724,10.8,13.9,10.3,https://example.com/images/item_47.jpg
+Chicken Alfredo Pasta #48,Topped with fresh herbs.,Wrap,19.35,279,28.4,12.3,16.0,https://example.com/images/item_48.jpg
+Grilled Chicken Sandwich #49,Perfect for lunch or dinner.,Wrap,14.02,472,15.5,8.5,77.1,https://example.com/images/item_49.jpg
+Grilled Chicken Sandwich #50,Topped with fresh herbs.,Pizza,12.25,627,15.6,5.1,49.8,https://example.com/images/item_50.jpg
+Tomato Soup #51,Perfect for lunch or dinner.,Burger,19.8,631,14.2,8.3,35.1,https://example.com/images/item_51.jpg
+Vegan Buddha Bowl #52,Topped with fresh herbs.,Sandwich,15.29,173,6.5,20.4,26.6,https://example.com/images/item_52.jpg
+Chicken Alfredo Pasta #53,Delicious and freshly prepared.,Drink,12.36,740,19.5,15.5,70.6,https://example.com/images/item_53.jpg
+Tomato Soup #54,Perfect for lunch or dinner.,Salad,9.8,463,13.9,19.7,67.9,https://example.com/images/item_54.jpg
+Grilled Chicken Sandwich #55,Topped with fresh herbs.,Pizza,11.73,791,22.8,17.1,66.3,https://example.com/images/item_55.jpg
+Lemonade #56,Served with a side of bread.,Burger,13.64,367,24.5,12.7,71.7,https://example.com/images/item_56.jpg
+Grilled Chicken Sandwich #57,Rich in flavor and nutrients.,Bowl,18.93,751,25.3,7.4,58.6,https://example.com/images/item_57.jpg
+Chocolate Cake #58,Topped with fresh herbs.,Drink,15.68,223,12.4,10.6,12.1,https://example.com/images/item_58.jpg
+Grilled Chicken Sandwich #59,Delicious and freshly prepared.,Soup,17.27,421,15.5,9.7,56.0,https://example.com/images/item_59.jpg
+Greek Salad #60,Topped with fresh herbs.,Burger,14.81,710,18.4,8.4,40.1,https://example.com/images/item_60.jpg
+Vegan Buddha Bowl #61,Topped with fresh herbs.,Dessert,16.05,456,9.9,23.9,78.2,https://example.com/images/item_61.jpg
+Chicken Alfredo Pasta #62,Topped with fresh herbs.,Burger,6.62,256,5.1,7.3,61.8,https://example.com/images/item_62.jpg
+Vegan Buddha Bowl #63,Topped with fresh herbs.,Drink,14.53,208,25.0,19.1,18.3,https://example.com/images/item_63.jpg
+Tomato Soup #64,Delicious and freshly prepared.,Burger,17.58,363,25.1,9.8,18.4,https://example.com/images/item_64.jpg
+Lemonade #65,Topped with fresh herbs.,Bowl,5.08,228,17.0,23.4,30.0,https://example.com/images/item_65.jpg
+Turkey Club Sandwich #66,Topped with fresh herbs.,Pizza,12.11,420,20.2,14.7,73.1,https://example.com/images/item_66.jpg
+Quinoa Salad #67,Delicious and freshly prepared.,Dessert,6.76,357,16.4,18.4,51.6,https://example.com/images/item_67.jpg
+Tomato Soup #68,Topped with fresh herbs.,Drink,11.06,365,20.0,4.4,75.6,https://example.com/images/item_68.jpg
+Spaghetti Bolognese #69,Topped with fresh herbs.,Bowl,16.88,113,13.4,23.6,32.8,https://example.com/images/item_69.jpg
+Chocolate Cake #70,Delicious and freshly prepared.,Drink,7.81,307,9.5,14.5,36.2,https://example.com/images/item_70.jpg
+Margherita Pizza #71,Served with a side of bread.,Burger,11.12,712,13.5,10.1,64.8,https://example.com/images/item_71.jpg
+Pepperoni Pizza #72,A customer favorite with premium ingredients.,Salad,19.97,343,17.8,10.1,28.3,https://example.com/images/item_72.jpg
+Caesar Salad #73,Delicious and freshly prepared.,Pizza,8.26,577,16.1,24.3,48.7,https://example.com/images/item_73.jpg
+Cheeseburger #74,Topped with fresh herbs.,Burger,14.54,606,5.8,17.6,69.6,https://example.com/images/item_74.jpg
+Margherita Pizza #75,Delicious and freshly prepared.,Wrap,11.71,477,18.1,24.6,78.9,https://example.com/images/item_75.jpg
+Margherita Pizza #76,Served with a side of bread.,Salad,9.52,566,6.9,6.7,49.8,https://example.com/images/item_76.jpg
+Chicken Alfredo Pasta #77,Delicious and freshly prepared.,Sandwich,17.66,396,29.0,18.8,62.4,https://example.com/images/item_77.jpg
+Spaghetti Bolognese #78,Perfect for lunch or dinner.,Sandwich,6.55,362,13.9,3.8,69.8,https://example.com/images/item_78.jpg
+Tomato Soup #79,Topped with fresh herbs.,Bowl,5.98,147,25.6,7.3,39.3,https://example.com/images/item_79.jpg
+Caesar Salad #80,A customer favorite with premium ingredients.,Drink,9.97,749,17.0,6.0,53.2,https://example.com/images/item_80.jpg
+Lemonade #81,Served with a side of bread.,Drink,16.54,419,6.1,15.1,23.6,https://example.com/images/item_81.jpg
+Lemonade #82,Served with a side of bread.,Sandwich,7.29,519,12.1,10.7,20.0,https://example.com/images/item_82.jpg
+Chocolate Cake #83,Delicious and freshly prepared.,Burger,9.99,524,28.4,18.5,47.5,https://example.com/images/item_83.jpg
+Veggie Wrap #84,A customer favorite with premium ingredients.,Drink,10.87,449,7.0,11.7,52.2,https://example.com/images/item_84.jpg
+Chocolate Cake #85,A customer favorite with premium ingredients.,Dessert,16.2,768,15.2,20.8,35.3,https://example.com/images/item_85.jpg
+Grilled Chicken Sandwich #86,Served with a side of bread.,Pizza,16.61,349,22.1,18.0,57.8,https://example.com/images/item_86.jpg
+Quinoa Salad #87,Delicious and freshly prepared.,Wrap,5.65,629,10.2,13.3,10.4,https://example.com/images/item_87.jpg
+Lemonade #88,A customer favorite with premium ingredients.,Wrap,18.66,469,14.7,5.7,75.6,https://example.com/images/item_88.jpg
+Veggie Wrap #89,Perfect for lunch or dinner.,Sandwich,18.31,197,24.2,7.8,14.7,https://example.com/images/item_89.jpg
+Pepperoni Pizza #90,Served with a side of bread.,Sandwich,6.74,289,15.5,21.9,21.4,https://example.com/images/item_90.jpg
+Quinoa Salad #91,Perfect for lunch or dinner.,Sandwich,11.05,418,8.0,7.9,42.4,https://example.com/images/item_91.jpg
+Vegan Buddha Bowl #92,A customer favorite with premium ingredients.,Pizza,7.97,240,17.4,7.2,22.1,https://example.com/images/item_92.jpg
+Tomato Soup #93,Perfect for lunch or dinner.,Sandwich,11.54,627,22.7,23.4,24.2,https://example.com/images/item_93.jpg
+Greek Salad #94,Served with a side of bread.,Dessert,12.28,224,6.8,13.4,45.2,https://example.com/images/item_94.jpg
+Vegan Buddha Bowl #95,Served with a side of bread.,Sandwich,5.63,247,16.9,4.5,56.5,https://example.com/images/item_95.jpg
+Turkey Club Sandwich #96,A customer favorite with premium ingredients.,Pasta,7.81,726,9.7,12.6,72.2,https://example.com/images/item_96.jpg
+Quinoa Salad #97,Delicious and freshly prepared.,Dessert,15.18,497,28.7,14.9,78.8,https://example.com/images/item_97.jpg
+Spaghetti Bolognese #98,Delicious and freshly prepared.,Drink,13.69,363,7.3,10.9,63.6,https://example.com/images/item_98.jpg
+Veggie Wrap #99,A customer favorite with premium ingredients.,Salad,19.09,487,27.6,21.9,18.9,https://example.com/images/item_99.jpg
+Pepperoni Pizza #100,Perfect for lunch or dinner.,Soup,7.17,599,9.7,17.2,67.6,https://example.com/images/item_100.jpg
+Spaghetti Bolognese #101,Topped with fresh herbs.,Sandwich,9.43,209,25.7,12.3,29.7,https://example.com/images/item_101.jpg
+Spaghetti Bolognese #102,Delicious and freshly prepared.,Pizza,7.43,294,19.4,21.6,27.2,https://example.com/images/item_102.jpg
+Chocolate Cake #103,Topped with fresh herbs.,Sandwich,15.87,435,25.4,8.0,60.3,https://example.com/images/item_103.jpg
+Spaghetti Bolognese #104,A customer favorite with premium ingredients.,Drink,10.21,590,25.7,4.1,44.3,https://example.com/images/item_104.jpg
+Turkey Club Sandwich #105,Rich in flavor and nutrients.,Drink,13.59,669,5.2,3.8,39.2,https://example.com/images/item_105.jpg
+Cheeseburger #106,Perfect for lunch or dinner.,Salad,14.58,750,15.3,4.4,13.5,https://example.com/images/item_106.jpg
+Vegan Buddha Bowl #107,Rich in flavor and nutrients.,Pasta,16.63,425,5.1,13.6,21.7,https://example.com/images/item_107.jpg
+Cheeseburger #108,A customer favorite with premium ingredients.,Drink,9.49,612,9.8,8.1,55.5,https://example.com/images/item_108.jpg
+Lemonade #109,Delicious and freshly prepared.,Wrap,15.59,585,17.0,21.5,46.8,https://example.com/images/item_109.jpg
+Vegan Buddha Bowl #110,Rich in flavor and nutrients.,Salad,14.95,775,5.7,23.2,31.4,https://example.com/images/item_110.jpg
+Grilled Chicken Sandwich #111,Perfect for lunch or dinner.,Pizza,6.16,191,12.2,15.2,41.5,https://example.com/images/item_111.jpg
+Vegan Buddha Bowl #112,A customer favorite with premium ingredients.,Drink,7.22,725,28.4,11.6,31.3,https://example.com/images/item_112.jpg
+Veggie Wrap #113,Served with a side of bread.,Pizza,12.22,582,11.3,16.6,49.9,https://example.com/images/item_113.jpg
+Lemonade #114,Delicious and freshly prepared.,Dessert,5.93,732,20.9,21.5,35.4,https://example.com/images/item_114.jpg
+Chocolate Cake #115,Served with a side of bread.,Drink,11.41,252,16.1,6.0,64.9,https://example.com/images/item_115.jpg
+Vegan Buddha Bowl #116,A customer favorite with premium ingredients.,Wrap,8.67,341,21.8,10.9,63.3,https://example.com/images/item_116.jpg
+Greek Salad #117,Served with a side of bread.,Bowl,12.14,385,7.9,10.3,29.1,https://example.com/images/item_117.jpg
+Spaghetti Bolognese #118,Rich in flavor and nutrients.,Soup,16.79,112,24.5,23.1,16.2,https://example.com/images/item_118.jpg
+Quinoa Salad #119,A customer favorite with premium ingredients.,Bowl,16.38,571,10.3,21.8,79.6,https://example.com/images/item_119.jpg
+Grilled Chicken Sandwich #120,Served with a side of bread.,Burger,14.07,685,10.6,8.3,50.3,https://example.com/images/item_120.jpg
+Cheeseburger #121,Perfect for lunch or dinner.,Drink,17.18,597,23.7,3.6,27.0,https://example.com/images/item_121.jpg
+Grilled Chicken Sandwich #122,Served with a side of bread.,Wrap,17.54,415,9.4,14.4,18.7,https://example.com/images/item_122.jpg
+Caesar Salad #123,Delicious and freshly prepared.,Bowl,14.77,236,15.7,21.6,58.8,https://example.com/images/item_123.jpg
+Quinoa Salad #124,Perfect for lunch or dinner.,Pizza,11.53,439,23.1,24.3,63.1,https://example.com/images/item_124.jpg
+Veggie Wrap #125,Served with a side of bread.,Salad,5.96,424,9.5,19.3,31.3,https://example.com/images/item_125.jpg
+Spaghetti Bolognese #126,Served with a side of bread.,Drink,18.73,115,6.2,20.2,30.7,https://example.com/images/item_126.jpg
+Caesar Salad #127,Rich in flavor and nutrients.,Drink,13.46,682,21.1,12.5,74.1,https://example.com/images/item_127.jpg
+Margherita Pizza #128,Topped with fresh herbs.,Sandwich,15.0,757,23.0,14.6,54.4,https://example.com/images/item_128.jpg
+Greek Salad #129,Served with a side of bread.,Sandwich,11.5,407,26.4,22.0,48.9,https://example.com/images/item_129.jpg
+Grilled Chicken Sandwich #130,Perfect for lunch or dinner.,Drink,10.74,392,24.9,17.6,38.3,https://example.com/images/item_130.jpg
+Pepperoni Pizza #131,Served with a side of bread.,Dessert,15.77,151,10.6,4.0,34.2,https://example.com/images/item_131.jpg
+Tomato Soup #132,Topped with fresh herbs.,Sandwich,8.81,420,11.2,10.1,47.3,https://example.com/images/item_132.jpg
+Chocolate Cake #133,Delicious and freshly prepared.,Dessert,8.1,121,20.2,14.2,39.7,https://example.com/images/item_133.jpg
+Quinoa Salad #134,Delicious and freshly prepared.,Sandwich,18.69,470,28.5,22.4,68.1,https://example.com/images/item_134.jpg
+Greek Salad #135,Served with a side of bread.,Salad,8.0,404,23.9,9.5,22.4,https://example.com/images/item_135.jpg
+Tomato Soup #136,Perfect for lunch or dinner.,Dessert,7.26,260,12.9,24.8,71.9,https://example.com/images/item_136.jpg
+Margherita Pizza #137,Served with a side of bread.,Drink,13.88,367,28.4,23.8,43.7,https://example.com/images/item_137.jpg
+Tomato Soup #138,A customer favorite with premium ingredients.,Bowl,19.06,380,12.0,19.0,23.0,https://example.com/images/item_138.jpg
+Turkey Club Sandwich #139,Topped with fresh herbs.,Salad,12.82,506,27.1,13.2,24.4,https://example.com/images/item_139.jpg
+Caesar Salad #140,Rich in flavor and nutrients.,Drink,12.38,409,12.0,15.7,62.0,https://example.com/images/item_140.jpg
+Lemonade #141,A customer favorite with premium ingredients.,Wrap,16.05,123,29.6,6.2,50.7,https://example.com/images/item_141.jpg
+Grilled Chicken Sandwich #142,Delicious and freshly prepared.,Salad,10.31,204,14.8,19.3,64.1,https://example.com/images/item_142.jpg
+Grilled Chicken Sandwich #143,Rich in flavor and nutrients.,Soup,16.49,422,24.1,11.5,55.2,https://example.com/images/item_143.jpg
+Caesar Salad #144,Rich in flavor and nutrients.,Dessert,5.35,737,8.1,15.8,78.2,https://example.com/images/item_144.jpg
+Pepperoni Pizza #145,Rich in flavor and nutrients.,Wrap,8.9,663,19.1,20.3,61.1,https://example.com/images/item_145.jpg
+Grilled Chicken Sandwich #146,A customer favorite with premium ingredients.,Bowl,7.69,710,11.3,12.9,51.4,https://example.com/images/item_146.jpg
+Greek Salad #147,Delicious and freshly prepared.,Drink,12.55,443,25.6,21.3,32.9,https://example.com/images/item_147.jpg
+Lemonade #148,Perfect for lunch or dinner.,Burger,12.42,274,14.9,7.4,75.6,https://example.com/images/item_148.jpg
+Tomato Soup #149,Served with a side of bread.,Bowl,14.4,182,17.6,16.1,74.7,https://example.com/images/item_149.jpg
+Grilled Chicken Sandwich #150,A customer favorite with premium ingredients.,Soup,17.48,318,20.7,9.1,13.5,https://example.com/images/item_150.jpg
+Quinoa Salad #151,A customer favorite with premium ingredients.,Soup,5.84,270,22.5,22.4,25.0,https://example.com/images/item_151.jpg
+Cheeseburger #152,A customer favorite with premium ingredients.,Wrap,14.89,229,19.8,11.7,56.1,https://example.com/images/item_152.jpg
+Caesar Salad #153,Topped with fresh herbs.,Soup,14.67,248,24.5,18.1,67.9,https://example.com/images/item_153.jpg
+Grilled Chicken Sandwich #154,Delicious and freshly prepared.,Wrap,15.23,157,16.7,24.5,55.6,https://example.com/images/item_154.jpg
+Margherita Pizza #155,Topped with fresh herbs.,Pasta,11.35,785,18.8,7.2,23.2,https://example.com/images/item_155.jpg
+Pepperoni Pizza #156,Perfect for lunch or dinner.,Drink,15.89,116,15.6,11.5,74.3,https://example.com/images/item_156.jpg
+Turkey Club Sandwich #157,Delicious and freshly prepared.,Sandwich,8.0,509,26.6,16.0,48.6,https://example.com/images/item_157.jpg
+Chocolate Cake #158,Delicious and freshly prepared.,Bowl,15.22,719,27.0,3.9,34.1,https://example.com/images/item_158.jpg
+Spaghetti Bolognese #159,Served with a side of bread.,Drink,10.77,101,24.1,13.2,32.8,https://example.com/images/item_159.jpg
+Lemonade #160,Delicious and freshly prepared.,Salad,15.57,535,20.8,22.0,11.1,https://example.com/images/item_160.jpg
+Quinoa Salad #161,Served with a side of bread.,Sandwich,12.42,476,24.4,12.0,14.8,https://example.com/images/item_161.jpg
+Chicken Alfredo Pasta #162,Topped with fresh herbs.,Pizza,6.81,441,18.0,15.1,66.6,https://example.com/images/item_162.jpg
+Chocolate Cake #163,A customer favorite with premium ingredients.,Dessert,14.87,161,5.4,19.3,65.6,https://example.com/images/item_163.jpg
+Grilled Chicken Sandwich #164,Perfect for lunch or dinner.,Wrap,17.81,484,6.6,15.8,44.5,https://example.com/images/item_164.jpg
+Pepperoni Pizza #165,A customer favorite with premium ingredients.,Dessert,17.53,195,24.2,17.4,50.0,https://example.com/images/item_165.jpg
+Chocolate Cake #166,Perfect for lunch or dinner.,Burger,6.39,163,17.8,21.1,43.6,https://example.com/images/item_166.jpg
+Pepperoni Pizza #167,Rich in flavor and nutrients.,Bowl,11.4,441,14.8,24.1,79.5,https://example.com/images/item_167.jpg
+Margherita Pizza #168,Perfect for lunch or dinner.,Bowl,6.36,338,10.8,12.9,16.7,https://example.com/images/item_168.jpg
+Greek Salad #169,Served with a side of bread.,Drink,13.0,240,19.2,19.6,43.1,https://example.com/images/item_169.jpg
+Vegan Buddha Bowl #170,Delicious and freshly prepared.,Dessert,10.29,192,23.6,10.1,71.3,https://example.com/images/item_170.jpg
+Chicken Alfredo Pasta #171,Served with a side of bread.,Dessert,14.79,411,10.5,19.6,74.4,https://example.com/images/item_171.jpg
+Margherita Pizza #172,Perfect for lunch or dinner.,Soup,5.45,747,23.6,16.0,62.3,https://example.com/images/item_172.jpg
+Turkey Club Sandwich #173,Topped with fresh herbs.,Drink,16.06,622,19.2,21.5,22.5,https://example.com/images/item_173.jpg
+Turkey Club Sandwich #174,Delicious and freshly prepared.,Drink,12.7,727,22.3,15.5,15.4,https://example.com/images/item_174.jpg
+Veggie Wrap #175,Served with a side of bread.,Dessert,13.35,109,26.0,13.2,66.8,https://example.com/images/item_175.jpg
+Chicken Alfredo Pasta #176,Delicious and freshly prepared.,Bowl,11.27,528,8.4,10.9,13.8,https://example.com/images/item_176.jpg
+Grilled Chicken Sandwich #177,Delicious and freshly prepared.,Burger,11.07,619,27.9,12.1,14.3,https://example.com/images/item_177.jpg
+Grilled Chicken Sandwich #178,Topped with fresh herbs.,Pizza,19.16,347,10.0,4.7,38.0,https://example.com/images/item_178.jpg
+Turkey Club Sandwich #179,A customer favorite with premium ingredients.,Pasta,15.01,404,15.7,23.1,39.3,https://example.com/images/item_179.jpg
+Caesar Salad #180,Served with a side of bread.,Sandwich,5.2,741,19.6,6.1,74.8,https://example.com/images/item_180.jpg
+Caesar Salad #181,Served with a side of bread.,Pizza,17.71,343,23.0,23.3,13.9,https://example.com/images/item_181.jpg
+Turkey Club Sandwich #182,Served with a side of bread.,Wrap,17.76,241,22.3,20.8,66.6,https://example.com/images/item_182.jpg
+Turkey Club Sandwich #183,Rich in flavor and nutrients.,Bowl,12.27,226,15.3,13.2,70.9,https://example.com/images/item_183.jpg
+Pepperoni Pizza #184,Rich in flavor and nutrients.,Sandwich,11.49,737,9.1,5.6,43.8,https://example.com/images/item_184.jpg
+Grilled Chicken Sandwich #185,Rich in flavor and nutrients.,Pasta,5.03,625,18.9,4.7,66.3,https://example.com/images/item_185.jpg
+Grilled Chicken Sandwich #186,Delicious and freshly prepared.,Salad,17.19,149,19.7,5.3,60.2,https://example.com/images/item_186.jpg
+Grilled Chicken Sandwich #187,Perfect for lunch or dinner.,Pasta,18.08,369,25.1,16.1,28.5,https://example.com/images/item_187.jpg
+Tomato Soup #188,Perfect for lunch or dinner.,Burger,10.05,506,9.9,16.1,13.0,https://example.com/images/item_188.jpg
+Margherita Pizza #189,Delicious and freshly prepared.,Wrap,12.93,704,25.9,20.2,16.2,https://example.com/images/item_189.jpg
+Pepperoni Pizza #190,Delicious and freshly prepared.,Sandwich,7.7,525,28.8,3.4,23.4,https://example.com/images/item_190.jpg
+Quinoa Salad #191,Served with a side of bread.,Burger,8.13,141,28.5,12.7,32.7,https://example.com/images/item_191.jpg
+Turkey Club Sandwich #192,Topped with fresh herbs.,Bowl,18.65,513,12.8,14.8,66.0,https://example.com/images/item_192.jpg
+Quinoa Salad #193,Topped with fresh herbs.,Burger,12.59,187,23.3,14.4,44.8,https://example.com/images/item_193.jpg
+Spaghetti Bolognese #194,Perfect for lunch or dinner.,Sandwich,13.84,551,21.7,19.1,68.0,https://example.com/images/item_194.jpg
+Veggie Wrap #195,Delicious and freshly prepared.,Soup,11.51,528,17.8,7.8,12.1,https://example.com/images/item_195.jpg
+Chocolate Cake #196,Topped with fresh herbs.,Drink,10.79,558,10.7,15.3,23.3,https://example.com/images/item_196.jpg
+Caesar Salad #197,Topped with fresh herbs.,Drink,17.16,758,24.5,4.3,79.4,https://example.com/images/item_197.jpg
+Lemonade #198,Rich in flavor and nutrients.,Dessert,5.91,150,29.9,9.0,68.7,https://example.com/images/item_198.jpg
+Pepperoni Pizza #199,Rich in flavor and nutrients.,Sandwich,14.68,705,29.1,19.8,59.9,https://example.com/images/item_199.jpg
+Cheeseburger #200,A customer favorite with premium ingredients.,Wrap,7.19,416,23.1,11.3,45.0,https://example.com/images/item_200.jpg
+Margherita Pizza #201,A customer favorite with premium ingredients.,Salad,14.89,796,18.7,13.3,62.2,https://example.com/images/item_201.jpg
+Chocolate Cake #202,Delicious and freshly prepared.,Burger,19.36,148,22.1,11.7,13.9,https://example.com/images/item_202.jpg
+Greek Salad #203,Topped with fresh herbs.,Salad,10.8,513,13.8,21.9,50.5,https://example.com/images/item_203.jpg
+Quinoa Salad #204,Topped with fresh herbs.,Bowl,15.54,115,9.6,3.3,69.1,https://example.com/images/item_204.jpg
+Caesar Salad #205,Served with a side of bread.,Bowl,8.57,428,18.5,11.0,62.9,https://example.com/images/item_205.jpg
+Chocolate Cake #206,A customer favorite with premium ingredients.,Burger,14.41,472,23.6,24.1,60.1,https://example.com/images/item_206.jpg
+Caesar Salad #207,A customer favorite with premium ingredients.,Burger,12.08,426,21.3,4.8,56.0,https://example.com/images/item_207.jpg
+Caesar Salad #208,Rich in flavor and nutrients.,Wrap,13.66,641,28.7,5.8,55.8,https://example.com/images/item_208.jpg
+Greek Salad #209,Topped with fresh herbs.,Dessert,12.22,633,25.5,15.9,50.8,https://example.com/images/item_209.jpg
+Tomato Soup #210,Perfect for lunch or dinner.,Drink,6.42,116,13.7,10.5,37.3,https://example.com/images/item_210.jpg
+Lemonade #211,Rich in flavor and nutrients.,Wrap,6.16,258,12.2,20.3,30.8,https://example.com/images/item_211.jpg
+Grilled Chicken Sandwich #212,Delicious and freshly prepared.,Drink,11.31,666,20.6,10.5,43.9,https://example.com/images/item_212.jpg
+Turkey Club Sandwich #213,Topped with fresh herbs.,Sandwich,9.68,635,24.4,24.1,13.4,https://example.com/images/item_213.jpg
+Lemonade #214,Topped with fresh herbs.,Bowl,16.44,688,27.4,16.9,12.7,https://example.com/images/item_214.jpg
+Veggie Wrap #215,Rich in flavor and nutrients.,Sandwich,13.7,204,26.8,5.5,29.0,https://example.com/images/item_215.jpg
+Tomato Soup #216,Topped with fresh herbs.,Pasta,16.54,489,27.8,4.0,24.4,https://example.com/images/item_216.jpg
+Grilled Chicken Sandwich #217,Perfect for lunch or dinner.,Wrap,6.13,767,7.5,20.0,15.0,https://example.com/images/item_217.jpg
+Vegan Buddha Bowl #218,Rich in flavor and nutrients.,Burger,6.63,312,11.1,11.1,63.9,https://example.com/images/item_218.jpg
+Turkey Club Sandwich #219,Rich in flavor and nutrients.,Drink,16.5,173,9.0,16.5,29.8,https://example.com/images/item_219.jpg
+Cheeseburger #220,Rich in flavor and nutrients.,Pizza,8.7,228,9.4,4.5,47.3,https://example.com/images/item_220.jpg
+Turkey Club Sandwich #221,Served with a side of bread.,Sandwich,13.74,401,28.1,11.4,13.7,https://example.com/images/item_221.jpg
+Vegan Buddha Bowl #222,Topped with fresh herbs.,Bowl,12.72,184,18.7,16.3,31.1,https://example.com/images/item_222.jpg
+Cheeseburger #223,A customer favorite with premium ingredients.,Pasta,8.82,705,11.9,11.1,78.4,https://example.com/images/item_223.jpg
+Quinoa Salad #224,Topped with fresh herbs.,Burger,5.37,202,25.7,16.4,67.3,https://example.com/images/item_224.jpg
+Veggie Wrap #225,Rich in flavor and nutrients.,Salad,18.52,554,24.3,11.3,44.2,https://example.com/images/item_225.jpg
+Margherita Pizza #226,A customer favorite with premium ingredients.,Salad,16.85,744,21.1,12.1,47.9,https://example.com/images/item_226.jpg
+Margherita Pizza #227,Rich in flavor and nutrients.,Soup,15.37,358,25.1,24.5,42.8,https://example.com/images/item_227.jpg
+Lemonade #228,Rich in flavor and nutrients.,Pasta,13.68,749,26.1,10.9,21.4,https://example.com/images/item_228.jpg
+Lemonade #229,Rich in flavor and nutrients.,Salad,17.37,528,23.8,5.6,60.9,https://example.com/images/item_229.jpg
+Chicken Alfredo Pasta #230,Served with a side of bread.,Drink,14.48,258,29.0,21.7,12.0,https://example.com/images/item_230.jpg
+Spaghetti Bolognese #231,Rich in flavor and nutrients.,Pasta,16.42,629,16.2,7.5,69.6,https://example.com/images/item_231.jpg
+Grilled Chicken Sandwich #232,Served with a side of bread.,Wrap,9.78,487,25.5,7.1,61.7,https://example.com/images/item_232.jpg
+Pepperoni Pizza #233,A customer favorite with premium ingredients.,Pasta,13.02,572,26.9,23.5,21.1,https://example.com/images/item_233.jpg
+Tomato Soup #234,Delicious and freshly prepared.,Pizza,17.5,279,8.6,21.7,44.8,https://example.com/images/item_234.jpg
+Tomato Soup #235,Rich in flavor and nutrients.,Wrap,5.53,595,8.8,6.6,42.2,https://example.com/images/item_235.jpg
+Lemonade #236,A customer favorite with premium ingredients.,Burger,7.44,666,21.6,14.4,24.9,https://example.com/images/item_236.jpg
+Chicken Alfredo Pasta #237,Perfect for lunch or dinner.,Sandwich,9.24,296,19.8,23.7,12.9,https://example.com/images/item_237.jpg
+Veggie Wrap #238,Delicious and freshly prepared.,Salad,16.38,530,14.1,16.3,35.9,https://example.com/images/item_238.jpg
+Caesar Salad #239,Served with a side of bread.,Sandwich,17.43,650,8.1,10.9,75.7,https://example.com/images/item_239.jpg
+Caesar Salad #240,Delicious and freshly prepared.,Wrap,6.82,431,25.1,20.7,39.4,https://example.com/images/item_240.jpg
+Chicken Alfredo Pasta #241,A customer favorite with premium ingredients.,Bowl,6.0,612,24.5,5.2,39.4,https://example.com/images/item_241.jpg
+Vegan Buddha Bowl #242,Served with a side of bread.,Wrap,11.54,296,26.7,4.9,33.6,https://example.com/images/item_242.jpg
+Vegan Buddha Bowl #243,Topped with fresh herbs.,Soup,13.3,516,18.5,12.8,42.4,https://example.com/images/item_243.jpg
+Quinoa Salad #244,Delicious and freshly prepared.,Bowl,11.35,442,15.9,16.3,79.7,https://example.com/images/item_244.jpg
+Pepperoni Pizza #245,A customer favorite with premium ingredients.,Pasta,19.91,629,19.9,23.7,62.2,https://example.com/images/item_245.jpg
+Lemonade #246,Rich in flavor and nutrients.,Dessert,8.18,236,21.1,14.4,24.4,https://example.com/images/item_246.jpg
+Grilled Chicken Sandwich #247,Rich in flavor and nutrients.,Salad,14.29,735,28.5,8.5,36.9,https://example.com/images/item_247.jpg
+Greek Salad #248,Served with a side of bread.,Sandwich,15.01,443,19.6,21.3,28.8,https://example.com/images/item_248.jpg
+Caesar Salad #249,Rich in flavor and nutrients.,Pasta,18.11,375,13.0,19.6,56.7,https://example.com/images/item_249.jpg
+Veggie Wrap #250,Delicious and freshly prepared.,Dessert,14.41,677,26.6,12.2,67.7,https://example.com/images/item_250.jpg
+Caesar Salad #251,Perfect for lunch or dinner.,Pasta,14.64,195,21.3,6.9,55.4,https://example.com/images/item_251.jpg
+Greek Salad #252,A customer favorite with premium ingredients.,Bowl,8.83,300,23.1,12.7,22.9,https://example.com/images/item_252.jpg
+Veggie Wrap #253,Delicious and freshly prepared.,Pizza,12.94,677,12.3,17.9,59.4,https://example.com/images/item_253.jpg
+Chicken Alfredo Pasta #254,Perfect for lunch or dinner.,Burger,19.97,621,9.9,17.3,36.7,https://example.com/images/item_254.jpg
+Greek Salad #255,Topped with fresh herbs.,Soup,15.27,306,5.2,13.3,71.6,https://example.com/images/item_255.jpg
+Spaghetti Bolognese #256,Perfect for lunch or dinner.,Bowl,15.13,422,10.9,9.9,55.1,https://example.com/images/item_256.jpg
+Tomato Soup #257,Rich in flavor and nutrients.,Dessert,6.14,535,21.7,18.1,48.1,https://example.com/images/item_257.jpg
+Margherita Pizza #258,A customer favorite with premium ingredients.,Wrap,18.6,767,15.8,20.6,35.2,https://example.com/images/item_258.jpg
+Grilled Chicken Sandwich #259,Rich in flavor and nutrients.,Pasta,12.48,148,21.7,3.9,49.9,https://example.com/images/item_259.jpg
+Chicken Alfredo Pasta #260,Served with a side of bread.,Burger,10.98,304,10.4,21.2,40.4,https://example.com/images/item_260.jpg
+Quinoa Salad #261,Perfect for lunch or dinner.,Pasta,13.38,289,9.8,5.5,23.5,https://example.com/images/item_261.jpg
+Chicken Alfredo Pasta #262,Delicious and freshly prepared.,Dessert,7.84,307,29.6,16.9,39.0,https://example.com/images/item_262.jpg
+Greek Salad #263,Rich in flavor and nutrients.,Sandwich,6.69,764,18.6,20.4,66.8,https://example.com/images/item_263.jpg
+Quinoa Salad #264,Delicious and freshly prepared.,Bowl,9.62,158,20.2,21.6,71.0,https://example.com/images/item_264.jpg
+Caesar Salad #265,Topped with fresh herbs.,Dessert,15.71,255,8.6,6.3,62.4,https://example.com/images/item_265.jpg
+Vegan Buddha Bowl #266,A customer favorite with premium ingredients.,Pasta,7.63,573,16.0,20.3,13.9,https://example.com/images/item_266.jpg
+Caesar Salad #267,Served with a side of bread.,Dessert,13.6,359,8.2,4.4,45.1,https://example.com/images/item_267.jpg
+Veggie Wrap #268,Delicious and freshly prepared.,Bowl,7.1,353,21.3,12.5,67.1,https://example.com/images/item_268.jpg
+Vegan Buddha Bowl #269,Topped with fresh herbs.,Salad,6.14,535,7.7,7.1,51.6,https://example.com/images/item_269.jpg
+Chicken Alfredo Pasta #270,Delicious and freshly prepared.,Drink,17.51,271,29.5,14.7,50.2,https://example.com/images/item_270.jpg
+Grilled Chicken Sandwich #271,Served with a side of bread.,Soup,9.66,404,24.8,6.4,44.6,https://example.com/images/item_271.jpg
+Vegan Buddha Bowl #272,A customer favorite with premium ingredients.,Salad,15.94,649,16.8,19.2,62.1,https://example.com/images/item_272.jpg
+Vegan Buddha Bowl #273,Perfect for lunch or dinner.,Sandwich,13.76,173,29.9,15.1,73.1,https://example.com/images/item_273.jpg
+Tomato Soup #274,Rich in flavor and nutrients.,Pasta,9.02,242,20.7,14.5,13.5,https://example.com/images/item_274.jpg
+Grilled Chicken Sandwich #275,A customer favorite with premium ingredients.,Wrap,9.58,612,20.5,5.7,50.4,https://example.com/images/item_275.jpg
+Margherita Pizza #276,Topped with fresh herbs.,Pizza,18.2,758,5.3,21.4,77.1,https://example.com/images/item_276.jpg
+Spaghetti Bolognese #277,Served with a side of bread.,Burger,7.68,562,21.1,22.3,55.5,https://example.com/images/item_277.jpg
+Caesar Salad #278,Delicious and freshly prepared.,Bowl,5.95,397,25.1,17.8,73.0,https://example.com/images/item_278.jpg
+Vegan Buddha Bowl #279,Delicious and freshly prepared.,Pasta,18.63,631,26.0,8.2,23.0,https://example.com/images/item_279.jpg
+Quinoa Salad #280,Served with a side of bread.,Soup,7.88,507,16.9,19.0,61.7,https://example.com/images/item_280.jpg
+Greek Salad #281,Rich in flavor and nutrients.,Drink,9.82,774,25.3,12.0,72.9,https://example.com/images/item_281.jpg
+Lemonade #282,Delicious and freshly prepared.,Soup,10.32,170,5.4,8.5,25.6,https://example.com/images/item_282.jpg
+Spaghetti Bolognese #283,Rich in flavor and nutrients.,Sandwich,8.14,327,7.8,19.9,29.7,https://example.com/images/item_283.jpg
+Quinoa Salad #284,Perfect for lunch or dinner.,Soup,16.84,682,17.5,9.7,76.5,https://example.com/images/item_284.jpg
+Turkey Club Sandwich #285,A customer favorite with premium ingredients.,Pizza,8.53,132,10.3,11.9,71.2,https://example.com/images/item_285.jpg
+Grilled Chicken Sandwich #286,A customer favorite with premium ingredients.,Bowl,19.61,326,9.7,10.1,19.2,https://example.com/images/item_286.jpg
+Cheeseburger #287,Delicious and freshly prepared.,Dessert,8.43,350,7.3,5.0,11.5,https://example.com/images/item_287.jpg
+Quinoa Salad #288,A customer favorite with premium ingredients.,Drink,11.54,212,21.8,12.9,58.3,https://example.com/images/item_288.jpg
+Grilled Chicken Sandwich #289,A customer favorite with premium ingredients.,Salad,15.0,556,13.9,8.0,78.2,https://example.com/images/item_289.jpg
+Margherita Pizza #290,Rich in flavor and nutrients.,Drink,6.39,376,10.2,16.3,55.1,https://example.com/images/item_290.jpg
+Pepperoni Pizza #291,Perfect for lunch or dinner.,Burger,11.22,141,28.4,12.0,22.3,https://example.com/images/item_291.jpg
+Margherita Pizza #292,Perfect for lunch or dinner.,Burger,14.92,140,9.3,5.3,27.6,https://example.com/images/item_292.jpg
+Quinoa Salad #293,A customer favorite with premium ingredients.,Drink,16.81,680,28.4,18.2,21.7,https://example.com/images/item_293.jpg
+Margherita Pizza #294,Served with a side of bread.,Wrap,7.6,771,12.8,18.3,41.0,https://example.com/images/item_294.jpg
+Lemonade #295,Perfect for lunch or dinner.,Pizza,10.4,795,23.1,9.5,79.6,https://example.com/images/item_295.jpg
+Lemonade #296,Served with a side of bread.,Pasta,7.17,305,29.0,19.5,77.7,https://example.com/images/item_296.jpg
+Vegan Buddha Bowl #297,Topped with fresh herbs.,Dessert,8.61,636,13.6,23.8,51.7,https://example.com/images/item_297.jpg
+Lemonade #298,A customer favorite with premium ingredients.,Salad,14.63,111,24.4,7.9,39.2,https://example.com/images/item_298.jpg
+Turkey Club Sandwich #299,A customer favorite with premium ingredients.,Drink,19.44,459,12.9,18.3,25.3,https://example.com/images/item_299.jpg
+Greek Salad #300,Perfect for lunch or dinner.,Dessert,9.82,611,25.8,6.7,77.2,https://example.com/images/item_300.jpg
+Tomato Soup #301,A customer favorite with premium ingredients.,Drink,10.77,417,13.3,21.1,22.3,https://example.com/images/item_301.jpg
+Quinoa Salad #302,Perfect for lunch or dinner.,Sandwich,6.1,433,17.6,12.9,29.2,https://example.com/images/item_302.jpg
+Grilled Chicken Sandwich #303,Rich in flavor and nutrients.,Soup,10.57,754,18.5,10.8,38.2,https://example.com/images/item_303.jpg
+Grilled Chicken Sandwich #304,Served with a side of bread.,Burger,8.27,331,12.0,14.9,52.3,https://example.com/images/item_304.jpg
+Greek Salad #305,Served with a side of bread.,Bowl,6.08,654,25.6,10.1,34.9,https://example.com/images/item_305.jpg
+Vegan Buddha Bowl #306,Served with a side of bread.,Drink,6.08,778,16.1,22.0,75.4,https://example.com/images/item_306.jpg
+Pepperoni Pizza #307,Rich in flavor and nutrients.,Soup,7.59,225,28.2,13.2,66.3,https://example.com/images/item_307.jpg
+Pepperoni Pizza #308,Rich in flavor and nutrients.,Soup,13.75,649,14.8,6.1,58.8,https://example.com/images/item_308.jpg
+Chocolate Cake #309,Rich in flavor and nutrients.,Pasta,8.68,792,17.9,8.8,79.0,https://example.com/images/item_309.jpg
+Caesar Salad #310,Delicious and freshly prepared.,Soup,12.7,646,21.3,17.5,15.6,https://example.com/images/item_310.jpg
+Greek Salad #311,Perfect for lunch or dinner.,Drink,17.71,434,11.6,4.6,73.1,https://example.com/images/item_311.jpg
+Spaghetti Bolognese #312,Rich in flavor and nutrients.,Drink,5.36,695,5.9,15.4,19.0,https://example.com/images/item_312.jpg
+Vegan Buddha Bowl #313,Topped with fresh herbs.,Drink,9.51,286,28.2,10.9,65.1,https://example.com/images/item_313.jpg
+Grilled Chicken Sandwich #314,Delicious and freshly prepared.,Burger,7.7,740,9.5,23.3,13.6,https://example.com/images/item_314.jpg
+Vegan Buddha Bowl #315,Rich in flavor and nutrients.,Sandwich,10.17,162,7.6,21.6,32.9,https://example.com/images/item_315.jpg
+Lemonade #316,Topped with fresh herbs.,Sandwich,19.38,213,12.1,14.9,42.9,https://example.com/images/item_316.jpg
+Cheeseburger #317,A customer favorite with premium ingredients.,Wrap,14.15,519,19.3,11.0,30.6,https://example.com/images/item_317.jpg
+Chicken Alfredo Pasta #318,Served with a side of bread.,Wrap,5.7,631,6.6,21.4,27.5,https://example.com/images/item_318.jpg
+Caesar Salad #319,Perfect for lunch or dinner.,Wrap,18.53,409,24.3,7.1,33.5,https://example.com/images/item_319.jpg
+Turkey Club Sandwich #320,Perfect for lunch or dinner.,Dessert,9.0,607,25.9,9.1,20.2,https://example.com/images/item_320.jpg
+Margherita Pizza #321,Rich in flavor and nutrients.,Sandwich,9.58,317,10.9,21.2,51.1,https://example.com/images/item_321.jpg
+Cheeseburger #322,Delicious and freshly prepared.,Bowl,18.36,733,18.6,7.3,39.2,https://example.com/images/item_322.jpg
+Quinoa Salad #323,Perfect for lunch or dinner.,Dessert,8.7,450,27.8,14.6,39.3,https://example.com/images/item_323.jpg
+Margherita Pizza #324,Perfect for lunch or dinner.,Pasta,19.53,423,11.5,11.6,27.2,https://example.com/images/item_324.jpg
+Margherita Pizza #325,Rich in flavor and nutrients.,Wrap,18.89,190,25.5,14.2,39.5,https://example.com/images/item_325.jpg
+Veggie Wrap #326,A customer favorite with premium ingredients.,Drink,12.09,291,10.9,22.4,66.2,https://example.com/images/item_326.jpg
+Turkey Club Sandwich #327,Topped with fresh herbs.,Burger,11.94,196,20.1,10.1,40.6,https://example.com/images/item_327.jpg
+Cheeseburger #328,Topped with fresh herbs.,Wrap,19.32,544,16.0,11.7,58.8,https://example.com/images/item_328.jpg
+Margherita Pizza #329,Delicious and freshly prepared.,Bowl,7.63,597,10.0,13.5,39.2,https://example.com/images/item_329.jpg
+Turkey Club Sandwich #330,Served with a side of bread.,Sandwich,16.68,588,12.2,21.1,49.5,https://example.com/images/item_330.jpg
+Caesar Salad #331,Topped with fresh herbs.,Dessert,12.88,776,29.9,14.2,23.3,https://example.com/images/item_331.jpg
+Turkey Club Sandwich #332,Topped with fresh herbs.,Pasta,11.64,108,11.1,21.0,53.2,https://example.com/images/item_332.jpg
+Margherita Pizza #333,Topped with fresh herbs.,Bowl,6.81,537,13.1,15.1,42.7,https://example.com/images/item_333.jpg
+Greek Salad #334,Served with a side of bread.,Salad,13.77,505,26.4,16.7,52.0,https://example.com/images/item_334.jpg
+Greek Salad #335,Delicious and freshly prepared.,Wrap,17.29,519,27.4,18.6,71.0,https://example.com/images/item_335.jpg
+Vegan Buddha Bowl #336,Topped with fresh herbs.,Sandwich,18.3,528,24.5,15.1,42.5,https://example.com/images/item_336.jpg
+Caesar Salad #337,Delicious and freshly prepared.,Drink,17.42,748,8.2,12.3,57.8,https://example.com/images/item_337.jpg
+Veggie Wrap #338,A customer favorite with premium ingredients.,Soup,13.81,420,27.8,17.3,50.6,https://example.com/images/item_338.jpg
+Grilled Chicken Sandwich #339,Delicious and freshly prepared.,Sandwich,16.44,684,11.0,15.1,56.0,https://example.com/images/item_339.jpg
+Veggie Wrap #340,Perfect for lunch or dinner.,Sandwich,6.78,188,25.6,15.6,53.2,https://example.com/images/item_340.jpg
+Margherita Pizza #341,Topped with fresh herbs.,Bowl,13.65,381,22.0,12.7,39.6,https://example.com/images/item_341.jpg
+Veggie Wrap #342,Delicious and freshly prepared.,Burger,11.07,174,22.3,4.7,70.4,https://example.com/images/item_342.jpg
+Turkey Club Sandwich #343,Rich in flavor and nutrients.,Bowl,13.95,464,17.6,12.8,36.7,https://example.com/images/item_343.jpg
+Turkey Club Sandwich #344,A customer favorite with premium ingredients.,Burger,18.9,599,21.0,6.3,77.5,https://example.com/images/item_344.jpg
+Margherita Pizza #345,Topped with fresh herbs.,Pasta,8.81,282,22.6,9.7,55.6,https://example.com/images/item_345.jpg
+Pepperoni Pizza #346,Delicious and freshly prepared.,Pasta,18.46,226,7.2,14.7,30.1,https://example.com/images/item_346.jpg
+Tomato Soup #347,Perfect for lunch or dinner.,Pasta,6.2,189,28.2,16.5,32.1,https://example.com/images/item_347.jpg
+Lemonade #348,Perfect for lunch or dinner.,Wrap,11.22,463,22.3,14.9,77.9,https://example.com/images/item_348.jpg
+Lemonade #349,A customer favorite with premium ingredients.,Soup,18.57,283,26.6,6.9,33.8,https://example.com/images/item_349.jpg
+Margherita Pizza #350,Topped with fresh herbs.,Burger,18.9,411,7.0,18.0,48.8,https://example.com/images/item_350.jpg
+Caesar Salad #351,Perfect for lunch or dinner.,Dessert,8.06,113,28.7,12.7,30.7,https://example.com/images/item_351.jpg
+Chicken Alfredo Pasta #352,Delicious and freshly prepared.,Dessert,15.97,177,11.6,3.0,60.4,https://example.com/images/item_352.jpg
+Margherita Pizza #353,A customer favorite with premium ingredients.,Pizza,13.74,109,23.5,13.9,56.6,https://example.com/images/item_353.jpg
+Tomato Soup #354,Topped with fresh herbs.,Burger,16.42,612,13.7,6.9,58.9,https://example.com/images/item_354.jpg
+Lemonade #355,Perfect for lunch or dinner.,Sandwich,16.3,121,16.3,12.6,78.1,https://example.com/images/item_355.jpg
+Chicken Alfredo Pasta #356,Rich in flavor and nutrients.,Salad,9.32,572,28.5,18.6,59.0,https://example.com/images/item_356.jpg
+Tomato Soup #357,Delicious and freshly prepared.,Wrap,17.32,136,16.5,14.3,63.0,https://example.com/images/item_357.jpg
+Lemonade #358,Topped with fresh herbs.,Drink,15.69,165,13.3,7.2,43.7,https://example.com/images/item_358.jpg
+Chicken Alfredo Pasta #359,Served with a side of bread.,Dessert,6.87,278,18.1,3.6,65.3,https://example.com/images/item_359.jpg
+Greek Salad #360,Rich in flavor and nutrients.,Pasta,18.9,572,16.4,6.4,60.3,https://example.com/images/item_360.jpg
+Vegan Buddha Bowl #361,A customer favorite with premium ingredients.,Sandwich,15.76,382,10.5,9.9,17.5,https://example.com/images/item_361.jpg
+Chicken Alfredo Pasta #362,Topped with fresh herbs.,Drink,6.23,739,15.8,18.4,18.6,https://example.com/images/item_362.jpg
+Chocolate Cake #363,Topped with fresh herbs.,Burger,13.9,699,11.2,20.8,14.6,https://example.com/images/item_363.jpg
+Pepperoni Pizza #364,Delicious and freshly prepared.,Sandwich,16.51,519,9.1,10.8,14.5,https://example.com/images/item_364.jpg
+Margherita Pizza #365,Rich in flavor and nutrients.,Burger,16.18,394,8.7,4.0,33.3,https://example.com/images/item_365.jpg
+Caesar Salad #366,Perfect for lunch or dinner.,Drink,19.76,174,13.4,10.3,50.4,https://example.com/images/item_366.jpg
+Tomato Soup #367,Rich in flavor and nutrients.,Burger,14.21,666,23.5,15.2,65.5,https://example.com/images/item_367.jpg
+Tomato Soup #368,Delicious and freshly prepared.,Pasta,14.26,614,17.7,20.1,70.5,https://example.com/images/item_368.jpg
+Grilled Chicken Sandwich #369,Rich in flavor and nutrients.,Wrap,19.64,678,26.9,22.5,22.8,https://example.com/images/item_369.jpg
+Cheeseburger #370,Perfect for lunch or dinner.,Burger,5.21,641,26.8,16.9,75.1,https://example.com/images/item_370.jpg
+Chocolate Cake #371,A customer favorite with premium ingredients.,Soup,7.26,144,17.0,12.4,29.6,https://example.com/images/item_371.jpg
+Lemonade #372,Topped with fresh herbs.,Salad,12.92,322,22.1,24.8,48.0,https://example.com/images/item_372.jpg
+Lemonade #373,Delicious and freshly prepared.,Pasta,15.46,344,14.5,21.6,68.4,https://example.com/images/item_373.jpg
+Greek Salad #374,Rich in flavor and nutrients.,Salad,18.99,153,23.9,22.8,28.6,https://example.com/images/item_374.jpg
+Pepperoni Pizza #375,Perfect for lunch or dinner.,Soup,7.93,382,24.9,6.9,47.8,https://example.com/images/item_375.jpg
+Spaghetti Bolognese #376,Delicious and freshly prepared.,Sandwich,9.32,172,18.9,23.1,60.6,https://example.com/images/item_376.jpg
+Cheeseburger #377,Served with a side of bread.,Wrap,16.08,432,29.4,22.8,36.1,https://example.com/images/item_377.jpg
+Quinoa Salad #378,Topped with fresh herbs.,Soup,9.29,480,6.4,9.6,55.5,https://example.com/images/item_378.jpg
+Grilled Chicken Sandwich #379,Rich in flavor and nutrients.,Dessert,11.21,118,15.9,18.6,75.2,https://example.com/images/item_379.jpg
+Pepperoni Pizza #380,Delicious and freshly prepared.,Burger,5.46,558,13.9,20.9,38.8,https://example.com/images/item_380.jpg
+Margherita Pizza #381,Served with a side of bread.,Dessert,17.02,182,8.0,20.8,18.8,https://example.com/images/item_381.jpg
+Quinoa Salad #382,Topped with fresh herbs.,Bowl,13.6,203,7.4,22.2,56.6,https://example.com/images/item_382.jpg
+Grilled Chicken Sandwich #383,Topped with fresh herbs.,Pizza,14.07,529,8.5,18.7,46.9,https://example.com/images/item_383.jpg
+Spaghetti Bolognese #384,Served with a side of bread.,Wrap,19.83,741,23.6,9.8,65.6,https://example.com/images/item_384.jpg
+Greek Salad #385,Served with a side of bread.,Sandwich,14.85,465,20.0,17.5,54.0,https://example.com/images/item_385.jpg
+Quinoa Salad #386,A customer favorite with premium ingredients.,Burger,17.0,226,17.7,3.3,21.6,https://example.com/images/item_386.jpg
+Spaghetti Bolognese #387,Topped with fresh herbs.,Pasta,14.93,593,20.9,24.8,31.0,https://example.com/images/item_387.jpg
+Cheeseburger #388,Delicious and freshly prepared.,Bowl,14.94,406,21.2,9.6,72.9,https://example.com/images/item_388.jpg
+Vegan Buddha Bowl #389,A customer favorite with premium ingredients.,Soup,15.95,477,17.2,6.8,74.2,https://example.com/images/item_389.jpg
+Cheeseburger #390,Perfect for lunch or dinner.,Dessert,12.05,181,28.8,4.3,58.5,https://example.com/images/item_390.jpg
+Vegan Buddha Bowl #391,Perfect for lunch or dinner.,Bowl,12.6,509,21.7,6.9,20.5,https://example.com/images/item_391.jpg
+Vegan Buddha Bowl #392,A customer favorite with premium ingredients.,Pasta,13.32,667,9.6,20.6,31.1,https://example.com/images/item_392.jpg
+Vegan Buddha Bowl #393,Topped with fresh herbs.,Salad,6.4,200,28.8,15.3,28.5,https://example.com/images/item_393.jpg
+Quinoa Salad #394,A customer favorite with premium ingredients.,Sandwich,17.42,257,8.6,10.1,22.3,https://example.com/images/item_394.jpg
+Grilled Chicken Sandwich #395,Topped with fresh herbs.,Bowl,15.81,742,6.9,10.7,14.6,https://example.com/images/item_395.jpg
+Pepperoni Pizza #396,Delicious and freshly prepared.,Salad,5.14,470,19.1,17.6,69.1,https://example.com/images/item_396.jpg
+Turkey Club Sandwich #397,Perfect for lunch or dinner.,Bowl,8.97,465,22.9,4.8,60.2,https://example.com/images/item_397.jpg
+Quinoa Salad #398,Perfect for lunch or dinner.,Bowl,17.39,250,13.9,25.0,67.9,https://example.com/images/item_398.jpg
+Chocolate Cake #399,Topped with fresh herbs.,Pizza,9.35,249,13.1,22.5,33.0,https://example.com/images/item_399.jpg
+Lemonade #400,Rich in flavor and nutrients.,Pasta,12.97,764,19.1,4.2,71.7,https://example.com/images/item_400.jpg
+Turkey Club Sandwich #401,Perfect for lunch or dinner.,Dessert,15.28,726,9.4,10.4,21.9,https://example.com/images/item_401.jpg
+Pepperoni Pizza #402,Topped with fresh herbs.,Dessert,13.33,434,17.9,4.3,27.6,https://example.com/images/item_402.jpg
+Cheeseburger #403,Served with a side of bread.,Pizza,13.25,781,28.0,17.8,47.1,https://example.com/images/item_403.jpg
+Chicken Alfredo Pasta #404,Served with a side of bread.,Bowl,7.0,514,8.6,9.4,59.1,https://example.com/images/item_404.jpg
+Turkey Club Sandwich #405,Delicious and freshly prepared.,Burger,7.8,512,8.8,18.1,23.0,https://example.com/images/item_405.jpg
+Margherita Pizza #406,A customer favorite with premium ingredients.,Wrap,15.99,625,18.8,24.9,45.9,https://example.com/images/item_406.jpg
+Caesar Salad #407,A customer favorite with premium ingredients.,Bowl,5.03,149,9.8,11.3,36.1,https://example.com/images/item_407.jpg
+Lemonade #408,A customer favorite with premium ingredients.,Dessert,18.43,545,21.2,16.5,18.2,https://example.com/images/item_408.jpg
+Greek Salad #409,Served with a side of bread.,Burger,7.15,782,8.2,15.3,63.3,https://example.com/images/item_409.jpg
+Quinoa Salad #410,Delicious and freshly prepared.,Pasta,8.5,256,20.0,20.3,21.3,https://example.com/images/item_410.jpg
+Veggie Wrap #411,Served with a side of bread.,Salad,11.08,271,20.6,16.3,75.7,https://example.com/images/item_411.jpg
+Quinoa Salad #412,Served with a side of bread.,Drink,15.17,363,16.6,17.8,13.8,https://example.com/images/item_412.jpg
+Turkey Club Sandwich #413,Perfect for lunch or dinner.,Soup,18.52,469,29.8,5.5,74.8,https://example.com/images/item_413.jpg
+Tomato Soup #414,Rich in flavor and nutrients.,Soup,5.47,253,25.1,20.2,74.3,https://example.com/images/item_414.jpg
+Grilled Chicken Sandwich #415,A customer favorite with premium ingredients.,Bowl,19.37,668,11.0,10.2,66.9,https://example.com/images/item_415.jpg
+Veggie Wrap #416,A customer favorite with premium ingredients.,Burger,7.74,431,17.0,15.8,44.2,https://example.com/images/item_416.jpg
+Lemonade #417,A customer favorite with premium ingredients.,Dessert,17.02,317,29.1,13.2,74.7,https://example.com/images/item_417.jpg
+Tomato Soup #418,Rich in flavor and nutrients.,Pasta,10.9,675,11.3,16.3,26.0,https://example.com/images/item_418.jpg
+Grilled Chicken Sandwich #419,Rich in flavor and nutrients.,Soup,16.23,529,16.1,11.9,33.1,https://example.com/images/item_419.jpg
+Cheeseburger #420,Perfect for lunch or dinner.,Pasta,18.03,383,6.3,25.0,64.5,https://example.com/images/item_420.jpg
+Margherita Pizza #421,Perfect for lunch or dinner.,Dessert,18.31,401,11.1,10.1,55.1,https://example.com/images/item_421.jpg
+Vegan Buddha Bowl #422,A customer favorite with premium ingredients.,Bowl,13.53,653,29.5,17.8,12.8,https://example.com/images/item_422.jpg
+Quinoa Salad #423,Rich in flavor and nutrients.,Pasta,17.08,656,25.3,22.4,40.9,https://example.com/images/item_423.jpg
+Greek Salad #424,Rich in flavor and nutrients.,Bowl,19.36,522,28.5,16.8,39.0,https://example.com/images/item_424.jpg
+Margherita Pizza #425,Served with a side of bread.,Soup,16.93,375,18.8,23.0,31.0,https://example.com/images/item_425.jpg
+Greek Salad #426,Delicious and freshly prepared.,Dessert,7.29,742,9.9,22.6,52.6,https://example.com/images/item_426.jpg
+Cheeseburger #427,A customer favorite with premium ingredients.,Bowl,15.42,626,23.8,17.4,75.1,https://example.com/images/item_427.jpg
+Cheeseburger #428,Delicious and freshly prepared.,Pizza,12.26,243,7.7,9.9,57.2,https://example.com/images/item_428.jpg
+Greek Salad #429,Topped with fresh herbs.,Pizza,10.34,442,12.7,19.5,13.1,https://example.com/images/item_429.jpg
+Lemonade #430,A customer favorite with premium ingredients.,Sandwich,6.09,144,29.3,11.2,47.9,https://example.com/images/item_430.jpg
+Chicken Alfredo Pasta #431,Delicious and freshly prepared.,Pasta,10.65,317,26.4,12.4,59.9,https://example.com/images/item_431.jpg
+Grilled Chicken Sandwich #432,Served with a side of bread.,Burger,6.46,720,24.0,18.5,77.5,https://example.com/images/item_432.jpg
+Pepperoni Pizza #433,Delicious and freshly prepared.,Pasta,16.56,729,24.1,16.6,58.2,https://example.com/images/item_433.jpg
+Chicken Alfredo Pasta #434,Served with a side of bread.,Wrap,13.6,328,22.0,20.9,18.7,https://example.com/images/item_434.jpg
+Lemonade #435,Topped with fresh herbs.,Pasta,15.8,470,18.0,11.3,63.9,https://example.com/images/item_435.jpg
+Spaghetti Bolognese #436,Delicious and freshly prepared.,Dessert,13.32,353,23.2,7.1,24.0,https://example.com/images/item_436.jpg
+Margherita Pizza #437,Delicious and freshly prepared.,Bowl,11.48,691,15.3,8.8,63.5,https://example.com/images/item_437.jpg
+Grilled Chicken Sandwich #438,Served with a side of bread.,Pizza,19.18,734,24.7,4.6,65.3,https://example.com/images/item_438.jpg
+Vegan Buddha Bowl #439,Rich in flavor and nutrients.,Dessert,18.93,565,29.2,20.2,44.6,https://example.com/images/item_439.jpg
+Quinoa Salad #440,Delicious and freshly prepared.,Salad,18.1,708,10.5,9.6,43.4,https://example.com/images/item_440.jpg
+Chicken Alfredo Pasta #441,Rich in flavor and nutrients.,Sandwich,11.86,102,23.6,24.7,64.1,https://example.com/images/item_441.jpg
+Cheeseburger #442,Served with a side of bread.,Sandwich,16.35,152,29.8,3.8,68.0,https://example.com/images/item_442.jpg
+Veggie Wrap #443,Perfect for lunch or dinner.,Sandwich,7.08,492,13.2,18.8,39.6,https://example.com/images/item_443.jpg
+Vegan Buddha Bowl #444,A customer favorite with premium ingredients.,Wrap,9.42,787,11.7,18.8,29.9,https://example.com/images/item_444.jpg
+Tomato Soup #445,Served with a side of bread.,Drink,15.2,637,7.0,7.7,30.3,https://example.com/images/item_445.jpg
+Grilled Chicken Sandwich #446,A customer favorite with premium ingredients.,Wrap,14.91,415,16.6,18.1,58.1,https://example.com/images/item_446.jpg
+Caesar Salad #447,Topped with fresh herbs.,Pasta,13.62,362,11.0,4.9,78.7,https://example.com/images/item_447.jpg
+Chocolate Cake #448,Served with a side of bread.,Pizza,19.72,146,7.6,22.6,17.7,https://example.com/images/item_448.jpg
+Chocolate Cake #449,Served with a side of bread.,Dessert,7.92,328,29.8,24.2,50.6,https://example.com/images/item_449.jpg
+Spaghetti Bolognese #450,A customer favorite with premium ingredients.,Wrap,17.6,633,29.8,22.7,55.2,https://example.com/images/item_450.jpg
+Lemonade #451,A customer favorite with premium ingredients.,Pasta,17.09,321,15.1,3.0,78.4,https://example.com/images/item_451.jpg
+Chocolate Cake #452,Delicious and freshly prepared.,Drink,8.6,636,8.4,12.1,44.1,https://example.com/images/item_452.jpg
+Cheeseburger #453,Rich in flavor and nutrients.,Burger,9.4,216,16.3,10.7,44.6,https://example.com/images/item_453.jpg
+Veggie Wrap #454,A customer favorite with premium ingredients.,Drink,18.47,399,26.5,4.2,76.7,https://example.com/images/item_454.jpg
+Tomato Soup #455,A customer favorite with premium ingredients.,Dessert,16.64,206,8.3,7.7,47.0,https://example.com/images/item_455.jpg
+Quinoa Salad #456,Delicious and freshly prepared.,Soup,11.04,543,10.0,21.3,51.3,https://example.com/images/item_456.jpg
+Margherita Pizza #457,A customer favorite with premium ingredients.,Soup,18.38,180,28.2,9.2,62.2,https://example.com/images/item_457.jpg
+Veggie Wrap #458,Rich in flavor and nutrients.,Burger,6.79,591,15.7,6.4,27.4,https://example.com/images/item_458.jpg
+Spaghetti Bolognese #459,Served with a side of bread.,Soup,18.14,262,24.0,9.9,43.4,https://example.com/images/item_459.jpg
+Lemonade #460,A customer favorite with premium ingredients.,Soup,14.89,525,25.4,15.7,24.6,https://example.com/images/item_460.jpg
+Margherita Pizza #461,Perfect for lunch or dinner.,Pasta,14.96,587,12.3,13.2,79.4,https://example.com/images/item_461.jpg
+Turkey Club Sandwich #462,Topped with fresh herbs.,Burger,9.82,599,18.5,13.5,27.3,https://example.com/images/item_462.jpg
+Margherita Pizza #463,Perfect for lunch or dinner.,Pasta,8.23,722,11.9,5.2,14.2,https://example.com/images/item_463.jpg
+Tomato Soup #464,Perfect for lunch or dinner.,Pasta,9.0,177,27.8,5.6,41.1,https://example.com/images/item_464.jpg
+Spaghetti Bolognese #465,A customer favorite with premium ingredients.,Soup,15.12,232,16.5,16.1,57.9,https://example.com/images/item_465.jpg
+Spaghetti Bolognese #466,Topped with fresh herbs.,Burger,8.33,129,19.0,19.8,56.5,https://example.com/images/item_466.jpg
+Caesar Salad #467,Rich in flavor and nutrients.,Sandwich,19.63,655,6.8,23.9,54.5,https://example.com/images/item_467.jpg
+Vegan Buddha Bowl #468,Rich in flavor and nutrients.,Pasta,16.17,307,13.3,8.7,53.8,https://example.com/images/item_468.jpg
+Margherita Pizza #469,A customer favorite with premium ingredients.,Salad,10.13,354,19.7,15.1,14.5,https://example.com/images/item_469.jpg
+Greek Salad #470,Perfect for lunch or dinner.,Soup,14.88,104,25.4,4.8,29.8,https://example.com/images/item_470.jpg
+Caesar Salad #471,A customer favorite with premium ingredients.,Soup,15.79,431,12.7,5.3,48.7,https://example.com/images/item_471.jpg
+Chocolate Cake #472,Served with a side of bread.,Sandwich,9.04,372,26.9,6.1,68.2,https://example.com/images/item_472.jpg
+Lemonade #473,Served with a side of bread.,Soup,17.31,444,29.7,10.3,61.2,https://example.com/images/item_473.jpg
+Chocolate Cake #474,A customer favorite with premium ingredients.,Wrap,12.22,160,5.4,13.9,63.7,https://example.com/images/item_474.jpg
+Quinoa Salad #475,Delicious and freshly prepared.,Wrap,14.73,731,21.5,9.8,63.6,https://example.com/images/item_475.jpg
+Chocolate Cake #476,A customer favorite with premium ingredients.,Sandwich,18.33,546,8.3,8.4,31.3,https://example.com/images/item_476.jpg
+Greek Salad #477,Rich in flavor and nutrients.,Wrap,6.49,454,17.3,14.8,73.8,https://example.com/images/item_477.jpg
+Vegan Buddha Bowl #478,Perfect for lunch or dinner.,Soup,15.3,585,21.6,22.5,43.6,https://example.com/images/item_478.jpg
+Spaghetti Bolognese #479,A customer favorite with premium ingredients.,Drink,14.36,709,10.9,19.3,65.5,https://example.com/images/item_479.jpg
+Margherita Pizza #480,Served with a side of bread.,Burger,5.75,557,29.9,4.3,50.3,https://example.com/images/item_480.jpg
+Turkey Club Sandwich #481,Topped with fresh herbs.,Wrap,5.08,257,22.3,12.3,52.1,https://example.com/images/item_481.jpg
+Veggie Wrap #482,A customer favorite with premium ingredients.,Soup,11.14,278,21.2,21.5,15.6,https://example.com/images/item_482.jpg
+Caesar Salad #483,Served with a side of bread.,Salad,11.8,290,14.4,15.0,54.7,https://example.com/images/item_483.jpg
+Greek Salad #484,Served with a side of bread.,Sandwich,13.0,743,24.3,5.4,70.4,https://example.com/images/item_484.jpg
+Cheeseburger #485,Delicious and freshly prepared.,Sandwich,8.95,638,9.1,23.4,45.2,https://example.com/images/item_485.jpg
+Chocolate Cake #486,Delicious and freshly prepared.,Pizza,13.96,239,8.3,13.1,13.9,https://example.com/images/item_486.jpg
+Quinoa Salad #487,Rich in flavor and nutrients.,Pasta,16.86,408,11.9,20.9,43.0,https://example.com/images/item_487.jpg
+Spaghetti Bolognese #488,Delicious and freshly prepared.,Soup,17.52,470,12.7,22.6,72.0,https://example.com/images/item_488.jpg
+Spaghetti Bolognese #489,Delicious and freshly prepared.,Sandwich,16.52,533,23.2,22.4,20.4,https://example.com/images/item_489.jpg
+Veggie Wrap #490,Delicious and freshly prepared.,Bowl,6.22,504,8.4,18.2,29.2,https://example.com/images/item_490.jpg
+Cheeseburger #491,Topped with fresh herbs.,Sandwich,17.15,320,28.7,23.6,24.1,https://example.com/images/item_491.jpg
+Lemonade #492,A customer favorite with premium ingredients.,Pizza,9.34,622,5.4,24.0,41.2,https://example.com/images/item_492.jpg
+Pepperoni Pizza #493,A customer favorite with premium ingredients.,Dessert,18.41,578,17.5,17.9,20.4,https://example.com/images/item_493.jpg
+Lemonade #494,Perfect for lunch or dinner.,Soup,8.26,383,20.9,10.2,48.6,https://example.com/images/item_494.jpg
+Cheeseburger #495,Perfect for lunch or dinner.,Salad,7.35,395,10.8,20.3,65.8,https://example.com/images/item_495.jpg
+Tomato Soup #496,Topped with fresh herbs.,Wrap,13.74,286,24.3,14.4,22.7,https://example.com/images/item_496.jpg
+Tomato Soup #497,Served with a side of bread.,Wrap,8.41,251,25.6,3.9,59.8,https://example.com/images/item_497.jpg
+Cheeseburger #498,Rich in flavor and nutrients.,Burger,6.27,162,26.0,10.7,31.3,https://example.com/images/item_498.jpg
+Lemonade #499,A customer favorite with premium ingredients.,Pasta,5.07,795,27.9,15.0,19.4,https://example.com/images/item_499.jpg
+Greek Salad #500,Served with a side of bread.,Pasta,8.81,515,27.3,5.1,30.9,https://example.com/images/item_500.jpg
+Caesar Salad #501,Delicious and freshly prepared.,Pasta,5.87,318,18.8,18.3,11.8,https://example.com/images/item_501.jpg
+Grilled Chicken Sandwich #502,Delicious and freshly prepared.,Salad,17.7,323,16.3,12.0,79.1,https://example.com/images/item_502.jpg
+Caesar Salad #503,Topped with fresh herbs.,Dessert,19.94,704,20.2,24.3,16.5,https://example.com/images/item_503.jpg
+Margherita Pizza #504,Rich in flavor and nutrients.,Drink,15.73,713,21.8,3.3,14.4,https://example.com/images/item_504.jpg
+Chicken Alfredo Pasta #505,Perfect for lunch or dinner.,Dessert,11.07,587,9.3,24.1,52.1,https://example.com/images/item_505.jpg
+Turkey Club Sandwich #506,A customer favorite with premium ingredients.,Soup,7.42,150,28.2,9.9,77.5,https://example.com/images/item_506.jpg
+Tomato Soup #507,Rich in flavor and nutrients.,Soup,6.03,322,20.3,11.7,16.3,https://example.com/images/item_507.jpg
+Tomato Soup #508,Rich in flavor and nutrients.,Sandwich,7.93,230,23.7,21.8,28.9,https://example.com/images/item_508.jpg
+Grilled Chicken Sandwich #509,Perfect for lunch or dinner.,Soup,7.53,505,25.7,12.3,11.0,https://example.com/images/item_509.jpg
+Grilled Chicken Sandwich #510,Topped with fresh herbs.,Dessert,18.33,241,20.6,6.0,69.0,https://example.com/images/item_510.jpg
+Greek Salad #511,Served with a side of bread.,Wrap,8.44,276,19.6,11.7,24.1,https://example.com/images/item_511.jpg
+Margherita Pizza #512,Delicious and freshly prepared.,Drink,10.73,518,21.0,23.1,79.2,https://example.com/images/item_512.jpg
+Vegan Buddha Bowl #513,Delicious and freshly prepared.,Pasta,5.19,169,6.0,23.6,23.5,https://example.com/images/item_513.jpg
+Lemonade #514,Rich in flavor and nutrients.,Pizza,6.84,699,5.3,20.6,37.2,https://example.com/images/item_514.jpg
+Chocolate Cake #515,Perfect for lunch or dinner.,Salad,13.3,186,25.9,15.7,52.9,https://example.com/images/item_515.jpg
+Pepperoni Pizza #516,Delicious and freshly prepared.,Sandwich,14.87,331,8.8,15.6,70.4,https://example.com/images/item_516.jpg
+Cheeseburger #517,Served with a side of bread.,Bowl,18.39,487,19.5,5.1,64.7,https://example.com/images/item_517.jpg
+Pepperoni Pizza #518,Rich in flavor and nutrients.,Soup,15.31,379,9.2,12.1,31.6,https://example.com/images/item_518.jpg
+Tomato Soup #519,A customer favorite with premium ingredients.,Wrap,8.81,775,20.3,11.8,30.5,https://example.com/images/item_519.jpg
+Cheeseburger #520,Perfect for lunch or dinner.,Soup,15.02,335,11.1,6.5,35.8,https://example.com/images/item_520.jpg
+Pepperoni Pizza #521,Served with a side of bread.,Drink,17.3,650,24.1,23.0,33.3,https://example.com/images/item_521.jpg
+Caesar Salad #522,A customer favorite with premium ingredients.,Salad,12.22,541,24.6,20.0,66.2,https://example.com/images/item_522.jpg
+Vegan Buddha Bowl #523,Perfect for lunch or dinner.,Burger,11.16,375,5.3,18.9,61.6,https://example.com/images/item_523.jpg
+Grilled Chicken Sandwich #524,Topped with fresh herbs.,Wrap,18.22,268,11.6,6.5,35.0,https://example.com/images/item_524.jpg
+Grilled Chicken Sandwich #525,Served with a side of bread.,Soup,10.97,780,23.3,9.7,79.7,https://example.com/images/item_525.jpg
+Tomato Soup #526,A customer favorite with premium ingredients.,Wrap,7.91,669,23.8,14.0,29.0,https://example.com/images/item_526.jpg
+Quinoa Salad #527,Perfect for lunch or dinner.,Sandwich,16.04,503,19.0,14.6,55.0,https://example.com/images/item_527.jpg
+Spaghetti Bolognese #528,A customer favorite with premium ingredients.,Drink,14.73,135,8.1,20.3,64.0,https://example.com/images/item_528.jpg
+Veggie Wrap #529,Rich in flavor and nutrients.,Bowl,10.35,412,5.4,7.3,42.7,https://example.com/images/item_529.jpg
+Caesar Salad #530,Served with a side of bread.,Bowl,16.41,200,5.2,20.9,29.4,https://example.com/images/item_530.jpg
+Chocolate Cake #531,A customer favorite with premium ingredients.,Dessert,12.88,206,16.7,12.4,24.3,https://example.com/images/item_531.jpg
+Greek Salad #532,Topped with fresh herbs.,Drink,7.38,281,8.7,12.3,39.1,https://example.com/images/item_532.jpg
+Margherita Pizza #533,Delicious and freshly prepared.,Drink,12.17,265,5.5,7.3,62.9,https://example.com/images/item_533.jpg
+Tomato Soup #534,Topped with fresh herbs.,Sandwich,11.43,744,17.4,23.0,61.9,https://example.com/images/item_534.jpg
+Quinoa Salad #535,A customer favorite with premium ingredients.,Burger,18.72,783,29.4,13.4,17.1,https://example.com/images/item_535.jpg
+Pepperoni Pizza #536,Delicious and freshly prepared.,Salad,17.09,319,16.1,18.3,11.7,https://example.com/images/item_536.jpg
+Chocolate Cake #537,Rich in flavor and nutrients.,Burger,7.71,535,14.3,18.6,42.4,https://example.com/images/item_537.jpg
+Grilled Chicken Sandwich #538,Rich in flavor and nutrients.,Bowl,9.96,103,16.0,6.5,22.5,https://example.com/images/item_538.jpg
+Tomato Soup #539,Rich in flavor and nutrients.,Drink,8.91,107,21.2,15.0,39.9,https://example.com/images/item_539.jpg
+Grilled Chicken Sandwich #540,Topped with fresh herbs.,Soup,8.31,767,23.4,21.9,80.0,https://example.com/images/item_540.jpg
+Margherita Pizza #541,Perfect for lunch or dinner.,Soup,17.93,116,5.1,5.5,26.4,https://example.com/images/item_541.jpg
+Caesar Salad #542,Perfect for lunch or dinner.,Pizza,17.62,304,20.1,23.6,57.8,https://example.com/images/item_542.jpg
+Lemonade #543,Delicious and freshly prepared.,Salad,7.55,404,19.9,4.3,11.0,https://example.com/images/item_543.jpg
+Veggie Wrap #544,Served with a side of bread.,Pasta,12.49,627,18.1,22.6,11.7,https://example.com/images/item_544.jpg
+Turkey Club Sandwich #545,A customer favorite with premium ingredients.,Sandwich,18.08,163,18.9,18.9,61.0,https://example.com/images/item_545.jpg
+Lemonade #546,Delicious and freshly prepared.,Soup,16.81,709,7.1,24.3,15.6,https://example.com/images/item_546.jpg
+Lemonade #547,Topped with fresh herbs.,Burger,15.88,401,6.5,11.3,67.1,https://example.com/images/item_547.jpg
+Lemonade #548,Rich in flavor and nutrients.,Bowl,8.48,243,11.8,3.3,21.5,https://example.com/images/item_548.jpg
+Quinoa Salad #549,Delicious and freshly prepared.,Sandwich,5.59,547,13.4,7.1,74.5,https://example.com/images/item_549.jpg
+Turkey Club Sandwich #550,A customer favorite with premium ingredients.,Pasta,18.32,321,20.2,11.5,18.5,https://example.com/images/item_550.jpg
+Quinoa Salad #551,Delicious and freshly prepared.,Pasta,13.0,155,25.9,21.0,17.1,https://example.com/images/item_551.jpg
+Chicken Alfredo Pasta #552,Rich in flavor and nutrients.,Drink,9.41,349,15.0,11.9,29.9,https://example.com/images/item_552.jpg
+Chicken Alfredo Pasta #553,Delicious and freshly prepared.,Wrap,13.0,739,15.1,20.8,22.2,https://example.com/images/item_553.jpg
+Spaghetti Bolognese #554,Delicious and freshly prepared.,Dessert,8.56,155,17.0,17.8,23.7,https://example.com/images/item_554.jpg
+Margherita Pizza #555,Delicious and freshly prepared.,Drink,5.24,513,11.7,9.8,15.1,https://example.com/images/item_555.jpg
+Chocolate Cake #556,Delicious and freshly prepared.,Burger,15.59,470,21.3,9.2,41.9,https://example.com/images/item_556.jpg
+Vegan Buddha Bowl #557,Served with a side of bread.,Bowl,17.22,576,15.5,5.7,43.2,https://example.com/images/item_557.jpg
+Cheeseburger #558,Served with a side of bread.,Sandwich,17.69,117,27.5,19.7,15.5,https://example.com/images/item_558.jpg
+Grilled Chicken Sandwich #559,Served with a side of bread.,Pasta,7.35,501,5.4,6.4,76.3,https://example.com/images/item_559.jpg
+Grilled Chicken Sandwich #560,Delicious and freshly prepared.,Sandwich,12.97,474,29.9,8.6,73.1,https://example.com/images/item_560.jpg
+Veggie Wrap #561,Delicious and freshly prepared.,Pasta,15.83,251,17.8,8.8,64.3,https://example.com/images/item_561.jpg
+Cheeseburger #562,Perfect for lunch or dinner.,Soup,12.42,175,20.2,9.2,70.3,https://example.com/images/item_562.jpg
+Lemonade #563,A customer favorite with premium ingredients.,Sandwich,16.54,393,11.3,11.7,35.5,https://example.com/images/item_563.jpg
+Chocolate Cake #564,Rich in flavor and nutrients.,Bowl,15.82,665,16.4,14.5,65.4,https://example.com/images/item_564.jpg
+Greek Salad #565,Perfect for lunch or dinner.,Pizza,9.56,558,19.2,8.6,66.0,https://example.com/images/item_565.jpg
+Lemonade #566,A customer favorite with premium ingredients.,Dessert,14.28,107,9.6,21.8,33.7,https://example.com/images/item_566.jpg
+Veggie Wrap #567,Served with a side of bread.,Soup,16.31,258,10.1,21.1,48.0,https://example.com/images/item_567.jpg
+Grilled Chicken Sandwich #568,Delicious and freshly prepared.,Pizza,8.4,475,19.3,4.9,16.2,https://example.com/images/item_568.jpg
+Veggie Wrap #569,Served with a side of bread.,Sandwich,18.45,123,5.2,19.5,75.7,https://example.com/images/item_569.jpg
+Quinoa Salad #570,Delicious and freshly prepared.,Salad,8.58,585,25.5,8.2,41.6,https://example.com/images/item_570.jpg
+Pepperoni Pizza #571,Topped with fresh herbs.,Salad,13.11,264,11.5,3.8,27.5,https://example.com/images/item_571.jpg
+Quinoa Salad #572,A customer favorite with premium ingredients.,Sandwich,12.06,524,22.5,9.0,54.6,https://example.com/images/item_572.jpg
+Grilled Chicken Sandwich #573,Served with a side of bread.,Salad,9.87,222,24.5,19.4,78.5,https://example.com/images/item_573.jpg
+Margherita Pizza #574,Delicious and freshly prepared.,Wrap,6.8,555,13.8,16.9,19.0,https://example.com/images/item_574.jpg
+Greek Salad #575,Served with a side of bread.,Salad,15.23,388,26.6,13.5,44.8,https://example.com/images/item_575.jpg
+Greek Salad #576,A customer favorite with premium ingredients.,Pizza,10.21,583,23.4,18.1,57.8,https://example.com/images/item_576.jpg
+Caesar Salad #577,A customer favorite with premium ingredients.,Salad,5.26,294,18.1,16.2,51.4,https://example.com/images/item_577.jpg
+Spaghetti Bolognese #578,Topped with fresh herbs.,Pizza,17.55,249,24.4,8.5,61.3,https://example.com/images/item_578.jpg
+Margherita Pizza #579,A customer favorite with premium ingredients.,Bowl,16.76,148,10.7,14.9,46.1,https://example.com/images/item_579.jpg
+Caesar Salad #580,Delicious and freshly prepared.,Burger,12.54,381,16.6,24.5,51.3,https://example.com/images/item_580.jpg
+Cheeseburger #581,Perfect for lunch or dinner.,Wrap,7.14,140,19.0,24.2,67.9,https://example.com/images/item_581.jpg
+Grilled Chicken Sandwich #582,Perfect for lunch or dinner.,Bowl,9.89,781,13.1,8.6,26.2,https://example.com/images/item_582.jpg
+Cheeseburger #583,Topped with fresh herbs.,Bowl,9.1,409,18.4,7.2,14.6,https://example.com/images/item_583.jpg
+Tomato Soup #584,Served with a side of bread.,Bowl,10.54,680,25.8,17.9,46.7,https://example.com/images/item_584.jpg
+Pepperoni Pizza #585,Topped with fresh herbs.,Pasta,12.07,215,15.4,19.4,62.0,https://example.com/images/item_585.jpg
+Spaghetti Bolognese #586,Served with a side of bread.,Dessert,5.5,394,28.9,20.5,28.4,https://example.com/images/item_586.jpg
+Vegan Buddha Bowl #587,Rich in flavor and nutrients.,Pizza,8.22,541,21.3,11.1,27.9,https://example.com/images/item_587.jpg
+Tomato Soup #588,Delicious and freshly prepared.,Soup,9.78,334,9.6,17.2,48.0,https://example.com/images/item_588.jpg
+Quinoa Salad #589,Served with a side of bread.,Drink,18.51,678,14.7,6.1,23.9,https://example.com/images/item_589.jpg
+Grilled Chicken Sandwich #590,Delicious and freshly prepared.,Burger,5.32,484,27.9,12.7,25.8,https://example.com/images/item_590.jpg
+Chocolate Cake #591,Perfect for lunch or dinner.,Bowl,11.56,166,21.4,19.5,52.4,https://example.com/images/item_591.jpg
+Veggie Wrap #592,Topped with fresh herbs.,Pizza,7.23,761,13.5,12.5,78.5,https://example.com/images/item_592.jpg
+Cheeseburger #593,Delicious and freshly prepared.,Sandwich,19.22,314,20.1,12.5,60.8,https://example.com/images/item_593.jpg
+Grilled Chicken Sandwich #594,Rich in flavor and nutrients.,Burger,18.97,446,18.2,12.4,17.4,https://example.com/images/item_594.jpg
+Quinoa Salad #595,Topped with fresh herbs.,Dessert,14.83,356,12.8,17.0,16.7,https://example.com/images/item_595.jpg
+Turkey Club Sandwich #596,A customer favorite with premium ingredients.,Bowl,13.33,776,22.5,5.1,25.7,https://example.com/images/item_596.jpg
+Turkey Club Sandwich #597,Rich in flavor and nutrients.,Wrap,5.67,619,22.5,16.9,43.5,https://example.com/images/item_597.jpg
+Vegan Buddha Bowl #598,Served with a side of bread.,Dessert,8.08,725,24.6,17.9,27.6,https://example.com/images/item_598.jpg
+Margherita Pizza #599,Served with a side of bread.,Burger,12.15,340,24.8,19.3,14.2,https://example.com/images/item_599.jpg
+Vegan Buddha Bowl #600,Perfect for lunch or dinner.,Soup,8.23,572,6.3,15.8,20.9,https://example.com/images/item_600.jpg
+Tomato Soup #601,A customer favorite with premium ingredients.,Wrap,8.78,440,6.9,19.3,25.6,https://example.com/images/item_601.jpg
+Veggie Wrap #602,Topped with fresh herbs.,Wrap,12.5,490,23.4,15.6,58.3,https://example.com/images/item_602.jpg
+Spaghetti Bolognese #603,Perfect for lunch or dinner.,Salad,17.51,165,24.5,15.4,17.4,https://example.com/images/item_603.jpg
+Pepperoni Pizza #604,Served with a side of bread.,Soup,8.74,682,7.8,5.2,72.1,https://example.com/images/item_604.jpg
+Quinoa Salad #605,Topped with fresh herbs.,Soup,12.74,560,22.1,6.9,76.9,https://example.com/images/item_605.jpg
+Lemonade #606,A customer favorite with premium ingredients.,Drink,16.64,282,9.2,23.3,61.6,https://example.com/images/item_606.jpg
+Veggie Wrap #607,Delicious and freshly prepared.,Pasta,17.71,752,24.1,19.7,44.0,https://example.com/images/item_607.jpg
+Chocolate Cake #608,Topped with fresh herbs.,Wrap,17.75,461,22.6,3.5,52.7,https://example.com/images/item_608.jpg
+Pepperoni Pizza #609,Perfect for lunch or dinner.,Salad,13.03,183,13.5,22.8,46.1,https://example.com/images/item_609.jpg
+Grilled Chicken Sandwich #610,Perfect for lunch or dinner.,Soup,6.42,670,19.6,12.1,55.2,https://example.com/images/item_610.jpg
+Tomato Soup #611,A customer favorite with premium ingredients.,Sandwich,5.59,207,19.5,20.7,43.8,https://example.com/images/item_611.jpg
+Tomato Soup #612,Rich in flavor and nutrients.,Burger,19.8,660,18.6,20.6,71.9,https://example.com/images/item_612.jpg
+Quinoa Salad #613,A customer favorite with premium ingredients.,Dessert,8.75,759,10.8,11.9,30.5,https://example.com/images/item_613.jpg
+Veggie Wrap #614,Served with a side of bread.,Burger,8.34,227,28.1,3.7,38.3,https://example.com/images/item_614.jpg
+Greek Salad #615,Topped with fresh herbs.,Bowl,8.91,604,22.0,4.5,24.8,https://example.com/images/item_615.jpg
+Caesar Salad #616,Rich in flavor and nutrients.,Wrap,10.08,702,11.9,4.2,79.3,https://example.com/images/item_616.jpg
+Greek Salad #617,Served with a side of bread.,Drink,8.91,249,8.3,10.4,61.3,https://example.com/images/item_617.jpg
+Lemonade #618,Delicious and freshly prepared.,Wrap,18.83,779,17.8,20.1,62.7,https://example.com/images/item_618.jpg
+Margherita Pizza #619,Perfect for lunch or dinner.,Sandwich,8.29,171,17.5,22.4,43.7,https://example.com/images/item_619.jpg
+Vegan Buddha Bowl #620,Served with a side of bread.,Burger,5.72,301,11.2,14.1,17.3,https://example.com/images/item_620.jpg
+Lemonade #621,Delicious and freshly prepared.,Pizza,11.88,117,15.5,12.3,16.5,https://example.com/images/item_621.jpg
+Spaghetti Bolognese #622,Perfect for lunch or dinner.,Dessert,18.42,225,23.7,4.4,23.7,https://example.com/images/item_622.jpg
+Tomato Soup #623,Served with a side of bread.,Soup,18.66,155,18.5,12.7,18.9,https://example.com/images/item_623.jpg
+Greek Salad #624,Perfect for lunch or dinner.,Salad,13.33,101,5.6,21.7,16.4,https://example.com/images/item_624.jpg
+Tomato Soup #625,Delicious and freshly prepared.,Pizza,16.41,549,7.1,23.8,71.5,https://example.com/images/item_625.jpg
+Chocolate Cake #626,Delicious and freshly prepared.,Bowl,11.06,347,27.3,4.3,28.8,https://example.com/images/item_626.jpg
+Veggie Wrap #627,Served with a side of bread.,Bowl,19.77,166,11.2,19.8,23.7,https://example.com/images/item_627.jpg
+Grilled Chicken Sandwich #628,Delicious and freshly prepared.,Pizza,13.8,613,22.5,10.1,48.8,https://example.com/images/item_628.jpg
+Greek Salad #629,Topped with fresh herbs.,Drink,10.19,508,15.1,24.9,21.0,https://example.com/images/item_629.jpg
+Veggie Wrap #630,Served with a side of bread.,Salad,6.97,231,12.6,7.8,33.5,https://example.com/images/item_630.jpg
+Turkey Club Sandwich #631,Perfect for lunch or dinner.,Bowl,10.36,685,18.4,18.5,50.7,https://example.com/images/item_631.jpg
+Veggie Wrap #632,Topped with fresh herbs.,Salad,14.95,572,5.8,3.4,67.0,https://example.com/images/item_632.jpg
+Vegan Buddha Bowl #633,Perfect for lunch or dinner.,Drink,12.91,110,15.0,22.5,58.4,https://example.com/images/item_633.jpg
+Turkey Club Sandwich #634,A customer favorite with premium ingredients.,Wrap,11.41,332,15.0,15.2,58.9,https://example.com/images/item_634.jpg
+Chicken Alfredo Pasta #635,Topped with fresh herbs.,Bowl,11.56,325,6.0,12.7,77.5,https://example.com/images/item_635.jpg
+Chicken Alfredo Pasta #636,A customer favorite with premium ingredients.,Pasta,12.9,357,22.1,16.0,71.1,https://example.com/images/item_636.jpg
+Spaghetti Bolognese #637,Rich in flavor and nutrients.,Sandwich,6.98,436,27.7,14.7,49.6,https://example.com/images/item_637.jpg
+Turkey Club Sandwich #638,Served with a side of bread.,Sandwich,16.74,495,21.2,14.6,37.5,https://example.com/images/item_638.jpg
+Chicken Alfredo Pasta #639,Delicious and freshly prepared.,Drink,7.77,492,11.4,3.3,27.1,https://example.com/images/item_639.jpg
+Turkey Club Sandwich #640,Topped with fresh herbs.,Soup,6.78,125,29.5,23.0,22.1,https://example.com/images/item_640.jpg
+Grilled Chicken Sandwich #641,Served with a side of bread.,Drink,7.32,603,30.0,8.7,18.2,https://example.com/images/item_641.jpg
+Chocolate Cake #642,A customer favorite with premium ingredients.,Pizza,16.41,532,6.3,22.6,74.8,https://example.com/images/item_642.jpg
+Vegan Buddha Bowl #643,A customer favorite with premium ingredients.,Soup,8.5,275,6.5,10.5,54.4,https://example.com/images/item_643.jpg
+Lemonade #644,Topped with fresh herbs.,Soup,18.73,401,26.2,11.5,66.3,https://example.com/images/item_644.jpg
+Veggie Wrap #645,Perfect for lunch or dinner.,Soup,12.91,273,28.9,11.1,71.7,https://example.com/images/item_645.jpg
+Greek Salad #646,Perfect for lunch or dinner.,Wrap,5.64,342,9.2,15.8,43.1,https://example.com/images/item_646.jpg
+Turkey Club Sandwich #647,Perfect for lunch or dinner.,Sandwich,14.17,625,11.1,7.8,66.8,https://example.com/images/item_647.jpg
+Greek Salad #648,Rich in flavor and nutrients.,Pasta,16.74,263,20.9,18.5,79.5,https://example.com/images/item_648.jpg
+Tomato Soup #649,A customer favorite with premium ingredients.,Dessert,6.88,137,5.1,19.6,24.7,https://example.com/images/item_649.jpg
+Lemonade #650,Rich in flavor and nutrients.,Bowl,11.34,762,23.3,6.8,57.0,https://example.com/images/item_650.jpg
+Grilled Chicken Sandwich #651,Delicious and freshly prepared.,Soup,19.38,248,12.6,17.6,14.0,https://example.com/images/item_651.jpg
+Quinoa Salad #652,Topped with fresh herbs.,Pizza,17.81,608,17.5,24.7,25.2,https://example.com/images/item_652.jpg
+Margherita Pizza #653,Rich in flavor and nutrients.,Dessert,8.84,193,19.7,5.0,43.1,https://example.com/images/item_653.jpg
+Greek Salad #654,Perfect for lunch or dinner.,Drink,11.62,521,12.6,21.6,18.5,https://example.com/images/item_654.jpg
+Chocolate Cake #655,Topped with fresh herbs.,Pasta,10.39,512,17.3,12.5,78.0,https://example.com/images/item_655.jpg
+Vegan Buddha Bowl #656,Topped with fresh herbs.,Salad,12.69,142,23.1,21.9,46.8,https://example.com/images/item_656.jpg
+Veggie Wrap #657,Delicious and freshly prepared.,Burger,5.56,109,27.5,15.2,66.7,https://example.com/images/item_657.jpg
+Chicken Alfredo Pasta #658,Topped with fresh herbs.,Bowl,5.08,218,23.6,23.3,75.0,https://example.com/images/item_658.jpg
+Quinoa Salad #659,Delicious and freshly prepared.,Pizza,18.0,767,25.1,17.7,68.9,https://example.com/images/item_659.jpg
+Spaghetti Bolognese #660,Rich in flavor and nutrients.,Drink,10.82,403,11.8,10.8,68.4,https://example.com/images/item_660.jpg
+Lemonade #661,Perfect for lunch or dinner.,Burger,19.04,178,12.9,11.9,44.9,https://example.com/images/item_661.jpg
+Greek Salad #662,Served with a side of bread.,Burger,10.12,610,12.6,4.6,36.8,https://example.com/images/item_662.jpg
+Tomato Soup #663,Served with a side of bread.,Pasta,17.36,223,21.2,23.4,47.4,https://example.com/images/item_663.jpg
+Cheeseburger #664,A customer favorite with premium ingredients.,Wrap,15.1,530,7.7,8.8,11.8,https://example.com/images/item_664.jpg
+Caesar Salad #665,Topped with fresh herbs.,Wrap,15.81,408,25.6,13.3,24.2,https://example.com/images/item_665.jpg
+Veggie Wrap #666,A customer favorite with premium ingredients.,Dessert,13.31,254,20.6,19.3,30.1,https://example.com/images/item_666.jpg
+Lemonade #667,Perfect for lunch or dinner.,Soup,16.86,711,21.4,6.2,66.1,https://example.com/images/item_667.jpg
+Greek Salad #668,Rich in flavor and nutrients.,Salad,13.66,285,14.5,12.0,12.6,https://example.com/images/item_668.jpg
+Quinoa Salad #669,Served with a side of bread.,Soup,17.7,132,25.1,24.6,61.7,https://example.com/images/item_669.jpg
+Chicken Alfredo Pasta #670,Topped with fresh herbs.,Salad,15.23,290,23.7,23.3,72.1,https://example.com/images/item_670.jpg
+Margherita Pizza #671,Served with a side of bread.,Pasta,8.59,562,23.9,6.6,17.2,https://example.com/images/item_671.jpg
+Grilled Chicken Sandwich #672,Rich in flavor and nutrients.,Pizza,17.6,172,14.4,5.2,79.4,https://example.com/images/item_672.jpg
+Caesar Salad #673,Rich in flavor and nutrients.,Salad,13.05,354,14.8,24.7,79.7,https://example.com/images/item_673.jpg
+Quinoa Salad #674,Served with a side of bread.,Wrap,9.38,507,11.1,17.8,47.7,https://example.com/images/item_674.jpg
+Spaghetti Bolognese #675,A customer favorite with premium ingredients.,Pizza,15.8,249,10.4,14.0,17.5,https://example.com/images/item_675.jpg
+Grilled Chicken Sandwich #676,Topped with fresh herbs.,Burger,7.69,184,23.2,13.7,25.0,https://example.com/images/item_676.jpg
+Vegan Buddha Bowl #677,Served with a side of bread.,Dessert,14.04,172,6.0,16.9,16.6,https://example.com/images/item_677.jpg
+Caesar Salad #678,Delicious and freshly prepared.,Bowl,5.11,262,28.9,15.6,42.0,https://example.com/images/item_678.jpg
+Spaghetti Bolognese #679,Topped with fresh herbs.,Soup,17.07,513,5.9,14.4,21.0,https://example.com/images/item_679.jpg
+Margherita Pizza #680,Served with a side of bread.,Soup,13.35,282,7.1,24.6,57.7,https://example.com/images/item_680.jpg
+Lemonade #681,Rich in flavor and nutrients.,Pasta,7.15,610,23.5,22.8,22.6,https://example.com/images/item_681.jpg
+Spaghetti Bolognese #682,Served with a side of bread.,Wrap,8.7,322,17.6,20.5,78.4,https://example.com/images/item_682.jpg
+Chicken Alfredo Pasta #683,Served with a side of bread.,Pasta,6.02,476,9.4,11.2,16.2,https://example.com/images/item_683.jpg
+Margherita Pizza #684,A customer favorite with premium ingredients.,Bowl,11.94,719,25.7,7.8,33.9,https://example.com/images/item_684.jpg
+Chicken Alfredo Pasta #685,Delicious and freshly prepared.,Pizza,7.19,405,18.5,22.0,39.0,https://example.com/images/item_685.jpg
+Tomato Soup #686,Perfect for lunch or dinner.,Dessert,13.44,421,18.9,3.6,64.3,https://example.com/images/item_686.jpg
+Turkey Club Sandwich #687,Delicious and freshly prepared.,Dessert,19.05,770,9.0,7.1,18.4,https://example.com/images/item_687.jpg
+Cheeseburger #688,Perfect for lunch or dinner.,Sandwich,16.41,302,22.3,4.2,41.6,https://example.com/images/item_688.jpg
+Tomato Soup #689,Topped with fresh herbs.,Pasta,6.21,448,5.1,7.5,73.6,https://example.com/images/item_689.jpg
+Margherita Pizza #690,Perfect for lunch or dinner.,Sandwich,9.28,336,11.8,6.8,12.6,https://example.com/images/item_690.jpg
+Grilled Chicken Sandwich #691,Perfect for lunch or dinner.,Soup,13.85,797,24.6,9.3,15.2,https://example.com/images/item_691.jpg
+Greek Salad #692,Perfect for lunch or dinner.,Pizza,12.74,369,19.3,11.8,72.1,https://example.com/images/item_692.jpg
+Vegan Buddha Bowl #693,Topped with fresh herbs.,Pasta,12.42,653,22.5,22.2,61.2,https://example.com/images/item_693.jpg
+Cheeseburger #694,Served with a side of bread.,Pizza,14.94,177,23.1,18.7,39.3,https://example.com/images/item_694.jpg
+Spaghetti Bolognese #695,Delicious and freshly prepared.,Pasta,14.43,308,19.0,4.0,51.1,https://example.com/images/item_695.jpg
+Cheeseburger #696,Rich in flavor and nutrients.,Dessert,17.42,149,29.6,24.9,56.7,https://example.com/images/item_696.jpg
+Spaghetti Bolognese #697,Rich in flavor and nutrients.,Burger,11.99,799,28.7,24.9,56.9,https://example.com/images/item_697.jpg
+Grilled Chicken Sandwich #698,Rich in flavor and nutrients.,Sandwich,12.63,411,12.1,6.5,72.5,https://example.com/images/item_698.jpg
+Caesar Salad #699,Delicious and freshly prepared.,Sandwich,19.74,517,11.0,21.1,42.5,https://example.com/images/item_699.jpg
+Pepperoni Pizza #700,Delicious and freshly prepared.,Pasta,9.6,774,20.1,21.3,39.6,https://example.com/images/item_700.jpg
+Cheeseburger #701,Perfect for lunch or dinner.,Soup,15.79,692,14.4,16.1,50.1,https://example.com/images/item_701.jpg
+Chicken Alfredo Pasta #702,Served with a side of bread.,Wrap,16.59,507,10.6,14.7,53.0,https://example.com/images/item_702.jpg
+Spaghetti Bolognese #703,Perfect for lunch or dinner.,Wrap,19.46,547,27.5,11.5,73.1,https://example.com/images/item_703.jpg
+Pepperoni Pizza #704,Delicious and freshly prepared.,Wrap,9.02,730,16.9,3.5,55.0,https://example.com/images/item_704.jpg
+Turkey Club Sandwich #705,Served with a side of bread.,Pasta,17.41,266,5.5,10.4,68.3,https://example.com/images/item_705.jpg
+Tomato Soup #706,Perfect for lunch or dinner.,Pizza,8.86,656,24.7,16.0,58.6,https://example.com/images/item_706.jpg
+Veggie Wrap #707,Served with a side of bread.,Drink,5.99,776,25.6,3.1,43.3,https://example.com/images/item_707.jpg
+Tomato Soup #708,Rich in flavor and nutrients.,Drink,12.27,276,12.4,7.7,21.9,https://example.com/images/item_708.jpg
+Cheeseburger #709,A customer favorite with premium ingredients.,Pizza,12.91,469,11.2,16.6,28.4,https://example.com/images/item_709.jpg
+Tomato Soup #710,A customer favorite with premium ingredients.,Dessert,15.82,182,28.3,7.9,33.4,https://example.com/images/item_710.jpg
+Grilled Chicken Sandwich #711,Perfect for lunch or dinner.,Wrap,9.34,575,22.5,7.8,15.2,https://example.com/images/item_711.jpg
+Quinoa Salad #712,A customer favorite with premium ingredients.,Soup,14.63,298,18.0,7.6,37.8,https://example.com/images/item_712.jpg
+Quinoa Salad #713,Rich in flavor and nutrients.,Wrap,16.45,752,12.5,12.8,77.0,https://example.com/images/item_713.jpg
+Quinoa Salad #714,Delicious and freshly prepared.,Burger,16.13,103,12.8,15.4,45.9,https://example.com/images/item_714.jpg
+Veggie Wrap #715,Rich in flavor and nutrients.,Sandwich,16.31,687,8.6,24.1,13.8,https://example.com/images/item_715.jpg
+Greek Salad #716,Served with a side of bread.,Drink,5.32,508,20.6,17.1,54.6,https://example.com/images/item_716.jpg
+Grilled Chicken Sandwich #717,Topped with fresh herbs.,Bowl,18.96,306,6.0,23.0,53.7,https://example.com/images/item_717.jpg
+Greek Salad #718,Topped with fresh herbs.,Soup,14.45,383,17.3,8.5,60.8,https://example.com/images/item_718.jpg
+Spaghetti Bolognese #719,A customer favorite with premium ingredients.,Wrap,10.08,362,13.3,10.7,53.6,https://example.com/images/item_719.jpg
+Pepperoni Pizza #720,Served with a side of bread.,Salad,6.74,761,9.8,10.5,67.6,https://example.com/images/item_720.jpg
+Greek Salad #721,A customer favorite with premium ingredients.,Pasta,8.04,613,28.4,20.7,74.5,https://example.com/images/item_721.jpg
+Margherita Pizza #722,Delicious and freshly prepared.,Drink,17.29,321,29.4,21.4,14.0,https://example.com/images/item_722.jpg
+Quinoa Salad #723,Perfect for lunch or dinner.,Bowl,15.53,671,6.0,11.9,40.9,https://example.com/images/item_723.jpg
+Chocolate Cake #724,Topped with fresh herbs.,Pasta,13.71,684,28.3,14.7,30.0,https://example.com/images/item_724.jpg
+Caesar Salad #725,A customer favorite with premium ingredients.,Sandwich,13.52,264,5.7,9.1,77.9,https://example.com/images/item_725.jpg
+Chocolate Cake #726,Perfect for lunch or dinner.,Sandwich,5.7,115,12.4,11.2,79.5,https://example.com/images/item_726.jpg
+Caesar Salad #727,Delicious and freshly prepared.,Soup,8.49,163,11.3,21.3,39.4,https://example.com/images/item_727.jpg
+Tomato Soup #728,Rich in flavor and nutrients.,Bowl,13.16,309,13.9,10.4,48.3,https://example.com/images/item_728.jpg
+Chocolate Cake #729,Topped with fresh herbs.,Pizza,10.48,286,11.7,9.8,52.6,https://example.com/images/item_729.jpg
+Chicken Alfredo Pasta #730,Topped with fresh herbs.,Soup,19.35,416,8.8,21.6,63.0,https://example.com/images/item_730.jpg
+Tomato Soup #731,Perfect for lunch or dinner.,Drink,18.88,352,26.8,17.1,68.1,https://example.com/images/item_731.jpg
+Greek Salad #732,Delicious and freshly prepared.,Wrap,15.75,430,27.7,4.3,70.6,https://example.com/images/item_732.jpg
+Quinoa Salad #733,Served with a side of bread.,Salad,5.99,336,17.3,7.5,40.9,https://example.com/images/item_733.jpg
+Turkey Club Sandwich #734,Served with a side of bread.,Burger,12.66,202,13.3,14.4,60.8,https://example.com/images/item_734.jpg
+Tomato Soup #735,A customer favorite with premium ingredients.,Sandwich,18.47,561,13.9,8.9,20.3,https://example.com/images/item_735.jpg
+Turkey Club Sandwich #736,A customer favorite with premium ingredients.,Wrap,5.01,376,12.5,15.3,15.5,https://example.com/images/item_736.jpg
+Lemonade #737,Topped with fresh herbs.,Wrap,11.45,466,24.3,12.7,61.8,https://example.com/images/item_737.jpg
+Pepperoni Pizza #738,Delicious and freshly prepared.,Salad,12.98,172,11.6,15.9,39.4,https://example.com/images/item_738.jpg
+Lemonade #739,Topped with fresh herbs.,Dessert,5.59,539,13.8,21.4,61.6,https://example.com/images/item_739.jpg
+Spaghetti Bolognese #740,Served with a side of bread.,Bowl,11.25,494,22.1,12.4,68.4,https://example.com/images/item_740.jpg
+Caesar Salad #741,Topped with fresh herbs.,Sandwich,19.1,480,29.3,8.4,74.0,https://example.com/images/item_741.jpg
+Quinoa Salad #742,Rich in flavor and nutrients.,Sandwich,8.69,261,29.5,15.3,55.8,https://example.com/images/item_742.jpg
+Cheeseburger #743,Served with a side of bread.,Drink,7.68,302,22.0,24.2,34.6,https://example.com/images/item_743.jpg
+Caesar Salad #744,Perfect for lunch or dinner.,Sandwich,10.02,741,29.0,16.1,43.9,https://example.com/images/item_744.jpg
+Greek Salad #745,Served with a side of bread.,Sandwich,17.8,455,26.7,19.9,68.2,https://example.com/images/item_745.jpg
+Caesar Salad #746,Topped with fresh herbs.,Pasta,8.05,602,9.7,9.4,38.7,https://example.com/images/item_746.jpg
+Margherita Pizza #747,Topped with fresh herbs.,Dessert,8.26,135,16.3,19.2,56.0,https://example.com/images/item_747.jpg
+Quinoa Salad #748,Rich in flavor and nutrients.,Drink,11.75,717,13.0,4.9,69.2,https://example.com/images/item_748.jpg
+Quinoa Salad #749,Rich in flavor and nutrients.,Pizza,15.23,568,14.3,7.8,39.9,https://example.com/images/item_749.jpg
+Pepperoni Pizza #750,Perfect for lunch or dinner.,Pizza,16.56,757,6.4,18.5,76.0,https://example.com/images/item_750.jpg
+Chocolate Cake #751,Perfect for lunch or dinner.,Drink,11.44,728,26.6,23.3,23.2,https://example.com/images/item_751.jpg
+Greek Salad #752,Topped with fresh herbs.,Drink,13.12,272,14.5,4.2,41.6,https://example.com/images/item_752.jpg
+Vegan Buddha Bowl #753,Delicious and freshly prepared.,Burger,9.64,708,16.4,10.4,69.5,https://example.com/images/item_753.jpg
+Quinoa Salad #754,Topped with fresh herbs.,Pasta,9.6,224,23.4,9.3,76.0,https://example.com/images/item_754.jpg
+Chocolate Cake #755,Topped with fresh herbs.,Sandwich,7.95,300,8.0,23.1,70.4,https://example.com/images/item_755.jpg
+Pepperoni Pizza #756,Topped with fresh herbs.,Salad,14.72,194,23.7,3.4,78.9,https://example.com/images/item_756.jpg
+Grilled Chicken Sandwich #757,Topped with fresh herbs.,Wrap,12.06,120,20.3,11.2,15.5,https://example.com/images/item_757.jpg
+Cheeseburger #758,Served with a side of bread.,Drink,9.52,498,10.0,23.0,15.6,https://example.com/images/item_758.jpg
+Cheeseburger #759,Served with a side of bread.,Pasta,18.19,310,14.1,14.1,18.4,https://example.com/images/item_759.jpg
+Vegan Buddha Bowl #760,Perfect for lunch or dinner.,Bowl,12.51,474,27.6,20.6,42.5,https://example.com/images/item_760.jpg
+Margherita Pizza #761,Delicious and freshly prepared.,Dessert,16.02,338,25.1,9.2,63.9,https://example.com/images/item_761.jpg
+Veggie Wrap #762,Perfect for lunch or dinner.,Wrap,11.21,701,28.2,19.4,27.4,https://example.com/images/item_762.jpg
+Chicken Alfredo Pasta #763,Served with a side of bread.,Dessert,15.64,780,10.8,18.5,67.9,https://example.com/images/item_763.jpg
+Margherita Pizza #764,Rich in flavor and nutrients.,Sandwich,12.71,352,10.5,20.7,44.5,https://example.com/images/item_764.jpg
+Spaghetti Bolognese #765,Delicious and freshly prepared.,Drink,16.53,766,9.3,15.5,14.6,https://example.com/images/item_765.jpg
+Chicken Alfredo Pasta #766,Delicious and freshly prepared.,Wrap,12.47,513,29.8,13.7,64.5,https://example.com/images/item_766.jpg
+Greek Salad #767,Served with a side of bread.,Bowl,9.79,173,29.2,23.7,41.9,https://example.com/images/item_767.jpg
+Lemonade #768,Perfect for lunch or dinner.,Sandwich,16.94,475,13.3,7.5,22.6,https://example.com/images/item_768.jpg
+Turkey Club Sandwich #769,Delicious and freshly prepared.,Sandwich,8.4,111,22.1,10.5,79.3,https://example.com/images/item_769.jpg
+Turkey Club Sandwich #770,Perfect for lunch or dinner.,Bowl,14.58,581,5.5,14.9,27.9,https://example.com/images/item_770.jpg
+Turkey Club Sandwich #771,Topped with fresh herbs.,Dessert,10.63,200,13.0,6.9,20.7,https://example.com/images/item_771.jpg
+Quinoa Salad #772,Perfect for lunch or dinner.,Soup,11.87,670,8.7,9.9,43.0,https://example.com/images/item_772.jpg
+Chicken Alfredo Pasta #773,Delicious and freshly prepared.,Bowl,10.74,246,17.4,16.0,14.2,https://example.com/images/item_773.jpg
+Lemonade #774,A customer favorite with premium ingredients.,Dessert,14.42,715,14.1,19.2,17.0,https://example.com/images/item_774.jpg
+Caesar Salad #775,A customer favorite with premium ingredients.,Sandwich,10.61,230,14.8,12.1,19.8,https://example.com/images/item_775.jpg
+Margherita Pizza #776,Topped with fresh herbs.,Burger,5.01,380,19.4,6.2,27.6,https://example.com/images/item_776.jpg
+Chicken Alfredo Pasta #777,A customer favorite with premium ingredients.,Soup,19.41,430,13.3,4.6,16.0,https://example.com/images/item_777.jpg
+Veggie Wrap #778,Perfect for lunch or dinner.,Dessert,6.04,172,16.3,11.3,71.3,https://example.com/images/item_778.jpg
+Vegan Buddha Bowl #779,Rich in flavor and nutrients.,Sandwich,9.53,422,22.3,18.7,65.9,https://example.com/images/item_779.jpg
+Greek Salad #780,Topped with fresh herbs.,Pizza,13.67,523,15.6,18.7,54.4,https://example.com/images/item_780.jpg
+Chicken Alfredo Pasta #781,Topped with fresh herbs.,Salad,16.48,284,13.1,7.1,73.5,https://example.com/images/item_781.jpg
+Grilled Chicken Sandwich #782,Served with a side of bread.,Pizza,19.05,664,27.6,3.6,29.2,https://example.com/images/item_782.jpg
+Caesar Salad #783,Topped with fresh herbs.,Sandwich,5.44,476,6.2,13.5,30.8,https://example.com/images/item_783.jpg
+Vegan Buddha Bowl #784,A customer favorite with premium ingredients.,Pizza,9.49,575,18.6,4.7,25.6,https://example.com/images/item_784.jpg
+Chocolate Cake #785,Perfect for lunch or dinner.,Salad,16.94,428,29.9,15.5,32.0,https://example.com/images/item_785.jpg
+Pepperoni Pizza #786,Topped with fresh herbs.,Bowl,12.61,512,22.5,22.6,67.2,https://example.com/images/item_786.jpg
+Grilled Chicken Sandwich #787,Topped with fresh herbs.,Wrap,11.47,717,16.5,21.9,41.5,https://example.com/images/item_787.jpg
+Quinoa Salad #788,A customer favorite with premium ingredients.,Sandwich,14.18,137,12.2,19.2,65.9,https://example.com/images/item_788.jpg
+Chicken Alfredo Pasta #789,Delicious and freshly prepared.,Drink,15.44,400,29.6,18.1,78.6,https://example.com/images/item_789.jpg
+Greek Salad #790,Served with a side of bread.,Soup,13.13,738,10.7,13.6,39.6,https://example.com/images/item_790.jpg
+Margherita Pizza #791,Topped with fresh herbs.,Sandwich,9.79,213,7.1,23.3,17.3,https://example.com/images/item_791.jpg
+Chocolate Cake #792,Topped with fresh herbs.,Wrap,18.58,653,27.2,10.6,30.5,https://example.com/images/item_792.jpg
+Veggie Wrap #793,Delicious and freshly prepared.,Drink,7.34,765,18.1,20.9,28.0,https://example.com/images/item_793.jpg
+Lemonade #794,Perfect for lunch or dinner.,Pizza,7.49,576,15.3,13.2,33.0,https://example.com/images/item_794.jpg
+Margherita Pizza #795,Topped with fresh herbs.,Soup,7.1,143,25.5,18.0,59.6,https://example.com/images/item_795.jpg
+Cheeseburger #796,Perfect for lunch or dinner.,Salad,12.54,560,14.1,24.9,57.2,https://example.com/images/item_796.jpg
+Chicken Alfredo Pasta #797,Delicious and freshly prepared.,Bowl,5.47,596,18.0,10.9,36.8,https://example.com/images/item_797.jpg
+Caesar Salad #798,Served with a side of bread.,Drink,13.69,770,9.5,14.8,76.7,https://example.com/images/item_798.jpg
+Quinoa Salad #799,Perfect for lunch or dinner.,Salad,5.5,300,25.4,8.8,26.2,https://example.com/images/item_799.jpg
+Grilled Chicken Sandwich #800,A customer favorite with premium ingredients.,Wrap,5.13,699,18.6,6.8,38.5,https://example.com/images/item_800.jpg
+Margherita Pizza #801,Served with a side of bread.,Burger,11.75,673,18.4,24.9,23.5,https://example.com/images/item_801.jpg
+Quinoa Salad #802,Served with a side of bread.,Sandwich,8.0,116,9.5,15.7,60.8,https://example.com/images/item_802.jpg
+Spaghetti Bolognese #803,Perfect for lunch or dinner.,Burger,7.01,338,11.4,12.0,16.0,https://example.com/images/item_803.jpg
+Pepperoni Pizza #804,Rich in flavor and nutrients.,Dessert,11.89,661,23.2,23.6,38.9,https://example.com/images/item_804.jpg
+Spaghetti Bolognese #805,A customer favorite with premium ingredients.,Bowl,11.94,258,6.8,21.1,69.2,https://example.com/images/item_805.jpg
+Chocolate Cake #806,Rich in flavor and nutrients.,Drink,5.23,477,28.3,17.5,68.4,https://example.com/images/item_806.jpg
+Tomato Soup #807,Served with a side of bread.,Sandwich,18.53,786,19.9,16.7,76.2,https://example.com/images/item_807.jpg
+Vegan Buddha Bowl #808,Topped with fresh herbs.,Dessert,17.03,605,28.5,12.5,56.3,https://example.com/images/item_808.jpg
+Chocolate Cake #809,Served with a side of bread.,Salad,5.65,131,7.2,9.5,43.9,https://example.com/images/item_809.jpg
+Spaghetti Bolognese #810,Rich in flavor and nutrients.,Pasta,8.4,114,27.0,17.6,61.5,https://example.com/images/item_810.jpg
+Cheeseburger #811,A customer favorite with premium ingredients.,Salad,8.68,197,6.8,7.9,66.9,https://example.com/images/item_811.jpg
+Veggie Wrap #812,Topped with fresh herbs.,Pasta,12.24,452,10.6,7.8,40.0,https://example.com/images/item_812.jpg
+Lemonade #813,Rich in flavor and nutrients.,Pasta,16.08,788,20.4,12.1,10.7,https://example.com/images/item_813.jpg
+Lemonade #814,Served with a side of bread.,Salad,11.23,599,29.2,11.5,30.9,https://example.com/images/item_814.jpg
+Turkey Club Sandwich #815,Served with a side of bread.,Wrap,10.61,265,14.1,16.9,35.5,https://example.com/images/item_815.jpg
+Grilled Chicken Sandwich #816,Perfect for lunch or dinner.,Dessert,10.99,221,11.0,11.8,76.9,https://example.com/images/item_816.jpg
+Chocolate Cake #817,A customer favorite with premium ingredients.,Drink,15.63,611,7.3,22.9,45.9,https://example.com/images/item_817.jpg
+Turkey Club Sandwich #818,A customer favorite with premium ingredients.,Bowl,12.57,403,21.4,20.1,71.6,https://example.com/images/item_818.jpg
+Greek Salad #819,Served with a side of bread.,Dessert,8.92,188,9.9,14.8,54.1,https://example.com/images/item_819.jpg
+Caesar Salad #820,Rich in flavor and nutrients.,Salad,5.65,659,13.9,16.7,14.4,https://example.com/images/item_820.jpg
+Greek Salad #821,Topped with fresh herbs.,Wrap,5.52,693,10.2,19.5,12.4,https://example.com/images/item_821.jpg
+Caesar Salad #822,Perfect for lunch or dinner.,Dessert,11.83,120,10.6,4.1,20.1,https://example.com/images/item_822.jpg
+Spaghetti Bolognese #823,Perfect for lunch or dinner.,Wrap,17.61,153,16.2,20.8,78.3,https://example.com/images/item_823.jpg
+Tomato Soup #824,Rich in flavor and nutrients.,Sandwich,12.87,114,27.6,3.7,22.6,https://example.com/images/item_824.jpg
+Chicken Alfredo Pasta #825,Perfect for lunch or dinner.,Bowl,19.69,155,9.0,15.1,54.5,https://example.com/images/item_825.jpg
+Margherita Pizza #826,Served with a side of bread.,Drink,7.01,241,20.5,6.6,52.5,https://example.com/images/item_826.jpg
+Margherita Pizza #827,Delicious and freshly prepared.,Wrap,10.3,475,29.3,24.5,15.7,https://example.com/images/item_827.jpg
+Veggie Wrap #828,Topped with fresh herbs.,Dessert,5.94,652,6.8,23.8,42.2,https://example.com/images/item_828.jpg
+Grilled Chicken Sandwich #829,Delicious and freshly prepared.,Soup,7.85,285,21.9,7.0,57.8,https://example.com/images/item_829.jpg
+Quinoa Salad #830,A customer favorite with premium ingredients.,Pasta,5.81,761,9.2,23.8,29.3,https://example.com/images/item_830.jpg
+Grilled Chicken Sandwich #831,Rich in flavor and nutrients.,Dessert,8.78,704,26.6,19.6,23.8,https://example.com/images/item_831.jpg
+Vegan Buddha Bowl #832,A customer favorite with premium ingredients.,Dessert,13.76,756,8.2,11.0,59.2,https://example.com/images/item_832.jpg
+Veggie Wrap #833,Topped with fresh herbs.,Burger,7.39,294,23.8,24.6,48.6,https://example.com/images/item_833.jpg
+Veggie Wrap #834,Delicious and freshly prepared.,Bowl,10.74,151,5.0,16.7,39.1,https://example.com/images/item_834.jpg
+Spaghetti Bolognese #835,A customer favorite with premium ingredients.,Pasta,14.91,502,12.1,17.4,78.6,https://example.com/images/item_835.jpg
+Veggie Wrap #836,A customer favorite with premium ingredients.,Sandwich,17.04,351,26.0,6.8,50.1,https://example.com/images/item_836.jpg
+Spaghetti Bolognese #837,Rich in flavor and nutrients.,Soup,18.45,695,8.3,16.0,22.2,https://example.com/images/item_837.jpg
+Veggie Wrap #838,Rich in flavor and nutrients.,Soup,7.7,602,16.4,16.5,57.5,https://example.com/images/item_838.jpg
+Margherita Pizza #839,Topped with fresh herbs.,Pizza,9.18,482,15.5,9.1,12.3,https://example.com/images/item_839.jpg
+Lemonade #840,Delicious and freshly prepared.,Dessert,5.08,385,26.8,15.4,79.9,https://example.com/images/item_840.jpg
+Vegan Buddha Bowl #841,Perfect for lunch or dinner.,Pizza,12.72,692,27.7,18.4,51.5,https://example.com/images/item_841.jpg
+Pepperoni Pizza #842,Delicious and freshly prepared.,Dessert,15.74,774,18.6,24.4,60.4,https://example.com/images/item_842.jpg
+Lemonade #843,Perfect for lunch or dinner.,Bowl,10.89,251,8.7,23.5,24.6,https://example.com/images/item_843.jpg
+Pepperoni Pizza #844,Delicious and freshly prepared.,Burger,11.37,712,24.6,21.3,39.4,https://example.com/images/item_844.jpg
+Cheeseburger #845,Topped with fresh herbs.,Burger,9.17,199,14.7,15.2,40.0,https://example.com/images/item_845.jpg
+Veggie Wrap #846,Served with a side of bread.,Pizza,10.83,753,26.6,19.0,15.9,https://example.com/images/item_846.jpg
+Quinoa Salad #847,Delicious and freshly prepared.,Drink,10.19,127,5.8,14.8,49.5,https://example.com/images/item_847.jpg
+Vegan Buddha Bowl #848,Perfect for lunch or dinner.,Soup,9.53,245,28.1,23.0,33.3,https://example.com/images/item_848.jpg
+Spaghetti Bolognese #849,Perfect for lunch or dinner.,Pasta,7.19,410,24.8,4.8,55.6,https://example.com/images/item_849.jpg
+Caesar Salad #850,A customer favorite with premium ingredients.,Burger,18.47,120,16.4,3.7,11.0,https://example.com/images/item_850.jpg
+Cheeseburger #851,Rich in flavor and nutrients.,Salad,7.64,613,14.8,3.5,35.9,https://example.com/images/item_851.jpg
+Lemonade #852,Topped with fresh herbs.,Salad,19.44,486,13.7,24.6,79.4,https://example.com/images/item_852.jpg
+Cheeseburger #853,A customer favorite with premium ingredients.,Sandwich,14.89,499,12.3,21.5,12.9,https://example.com/images/item_853.jpg
+Tomato Soup #854,A customer favorite with premium ingredients.,Wrap,13.32,280,12.8,24.5,10.4,https://example.com/images/item_854.jpg
+Tomato Soup #855,Served with a side of bread.,Soup,12.67,686,18.8,21.2,27.4,https://example.com/images/item_855.jpg
+Grilled Chicken Sandwich #856,Perfect for lunch or dinner.,Bowl,19.96,195,13.9,19.6,25.0,https://example.com/images/item_856.jpg
+Spaghetti Bolognese #857,Delicious and freshly prepared.,Bowl,6.65,243,23.7,3.2,42.9,https://example.com/images/item_857.jpg
+Greek Salad #858,A customer favorite with premium ingredients.,Sandwich,9.46,196,24.8,19.2,17.1,https://example.com/images/item_858.jpg
+Vegan Buddha Bowl #859,Topped with fresh herbs.,Wrap,5.17,527,12.1,11.6,32.1,https://example.com/images/item_859.jpg
+Tomato Soup #860,Delicious and freshly prepared.,Dessert,15.31,696,28.9,6.4,48.7,https://example.com/images/item_860.jpg
+Margherita Pizza #861,A customer favorite with premium ingredients.,Salad,5.33,387,5.1,19.9,67.6,https://example.com/images/item_861.jpg
+Pepperoni Pizza #862,Topped with fresh herbs.,Pizza,11.04,609,25.7,24.7,49.7,https://example.com/images/item_862.jpg
+Chicken Alfredo Pasta #863,A customer favorite with premium ingredients.,Salad,15.79,394,9.2,13.5,11.8,https://example.com/images/item_863.jpg
+Spaghetti Bolognese #864,Rich in flavor and nutrients.,Wrap,13.13,653,29.2,15.3,30.1,https://example.com/images/item_864.jpg
+Cheeseburger #865,Delicious and freshly prepared.,Dessert,9.06,443,13.2,22.9,46.2,https://example.com/images/item_865.jpg
+Turkey Club Sandwich #866,A customer favorite with premium ingredients.,Dessert,5.06,399,21.3,9.1,73.3,https://example.com/images/item_866.jpg
+Quinoa Salad #867,Topped with fresh herbs.,Burger,6.13,750,27.3,8.6,67.0,https://example.com/images/item_867.jpg
+Veggie Wrap #868,Perfect for lunch or dinner.,Salad,15.42,200,12.8,6.3,36.8,https://example.com/images/item_868.jpg
+Pepperoni Pizza #869,Served with a side of bread.,Dessert,18.39,553,25.5,13.3,54.6,https://example.com/images/item_869.jpg
+Pepperoni Pizza #870,Rich in flavor and nutrients.,Soup,8.4,357,23.2,24.8,56.4,https://example.com/images/item_870.jpg
+Chicken Alfredo Pasta #871,Perfect for lunch or dinner.,Drink,10.72,634,21.2,4.2,28.2,https://example.com/images/item_871.jpg
+Caesar Salad #872,A customer favorite with premium ingredients.,Bowl,14.3,746,13.5,16.2,48.0,https://example.com/images/item_872.jpg
+Greek Salad #873,Rich in flavor and nutrients.,Salad,9.64,424,22.0,3.6,72.1,https://example.com/images/item_873.jpg
+Spaghetti Bolognese #874,Rich in flavor and nutrients.,Bowl,14.45,562,13.6,3.7,19.9,https://example.com/images/item_874.jpg
+Veggie Wrap #875,A customer favorite with premium ingredients.,Dessert,17.77,169,26.6,5.7,73.6,https://example.com/images/item_875.jpg
+Quinoa Salad #876,Delicious and freshly prepared.,Soup,7.87,159,18.1,18.4,24.5,https://example.com/images/item_876.jpg
+Chicken Alfredo Pasta #877,Delicious and freshly prepared.,Soup,9.89,791,9.0,5.6,47.6,https://example.com/images/item_877.jpg
+Vegan Buddha Bowl #878,Rich in flavor and nutrients.,Bowl,10.75,540,19.2,8.2,69.4,https://example.com/images/item_878.jpg
+Cheeseburger #879,Topped with fresh herbs.,Sandwich,15.85,238,5.7,16.6,15.3,https://example.com/images/item_879.jpg
+Lemonade #880,Served with a side of bread.,Pizza,9.31,444,10.6,5.3,19.5,https://example.com/images/item_880.jpg
+Lemonade #881,A customer favorite with premium ingredients.,Drink,15.68,188,14.9,14.1,74.3,https://example.com/images/item_881.jpg
+Quinoa Salad #882,Topped with fresh herbs.,Wrap,16.7,792,13.3,11.8,59.6,https://example.com/images/item_882.jpg
+Quinoa Salad #883,Served with a side of bread.,Sandwich,13.59,662,11.1,17.1,29.7,https://example.com/images/item_883.jpg
+Turkey Club Sandwich #884,Served with a side of bread.,Dessert,16.96,247,22.8,17.9,12.4,https://example.com/images/item_884.jpg
+Tomato Soup #885,Delicious and freshly prepared.,Soup,18.91,345,8.9,22.6,30.8,https://example.com/images/item_885.jpg
+Caesar Salad #886,Rich in flavor and nutrients.,Soup,19.28,379,22.4,14.9,70.1,https://example.com/images/item_886.jpg
+Vegan Buddha Bowl #887,Perfect for lunch or dinner.,Soup,8.98,641,22.8,24.7,31.7,https://example.com/images/item_887.jpg
+Quinoa Salad #888,Perfect for lunch or dinner.,Soup,10.97,482,26.8,24.9,29.1,https://example.com/images/item_888.jpg
+Margherita Pizza #889,Topped with fresh herbs.,Sandwich,10.17,426,14.1,5.6,14.0,https://example.com/images/item_889.jpg
+Cheeseburger #890,Perfect for lunch or dinner.,Wrap,11.58,681,19.6,7.6,58.6,https://example.com/images/item_890.jpg
+Tomato Soup #891,Delicious and freshly prepared.,Soup,8.67,194,15.0,3.9,30.7,https://example.com/images/item_891.jpg
+Veggie Wrap #892,Rich in flavor and nutrients.,Pasta,6.55,207,21.9,4.8,40.8,https://example.com/images/item_892.jpg
+Veggie Wrap #893,Rich in flavor and nutrients.,Burger,10.94,695,8.5,11.5,22.1,https://example.com/images/item_893.jpg
+Grilled Chicken Sandwich #894,Perfect for lunch or dinner.,Pizza,7.64,620,9.7,24.8,54.6,https://example.com/images/item_894.jpg
+Quinoa Salad #895,A customer favorite with premium ingredients.,Drink,15.35,335,5.7,16.2,33.2,https://example.com/images/item_895.jpg
+Tomato Soup #896,Topped with fresh herbs.,Dessert,18.7,293,16.2,5.0,51.8,https://example.com/images/item_896.jpg
+Greek Salad #897,Served with a side of bread.,Wrap,9.82,708,19.6,15.9,62.5,https://example.com/images/item_897.jpg
+Chocolate Cake #898,Served with a side of bread.,Sandwich,13.3,395,24.5,5.3,10.8,https://example.com/images/item_898.jpg
+Chicken Alfredo Pasta #899,Rich in flavor and nutrients.,Soup,16.25,746,14.0,12.3,29.9,https://example.com/images/item_899.jpg
+Greek Salad #900,A customer favorite with premium ingredients.,Pizza,18.32,708,15.9,17.4,31.0,https://example.com/images/item_900.jpg
+Vegan Buddha Bowl #901,Delicious and freshly prepared.,Bowl,15.17,324,28.7,3.0,27.2,https://example.com/images/item_901.jpg
+Chocolate Cake #902,A customer favorite with premium ingredients.,Dessert,15.85,552,26.1,18.9,49.8,https://example.com/images/item_902.jpg
+Caesar Salad #903,Served with a side of bread.,Wrap,9.42,509,20.8,12.1,32.8,https://example.com/images/item_903.jpg
+Pepperoni Pizza #904,Perfect for lunch or dinner.,Bowl,8.53,243,18.3,19.2,65.9,https://example.com/images/item_904.jpg
+Grilled Chicken Sandwich #905,Delicious and freshly prepared.,Drink,5.17,762,24.7,7.0,58.2,https://example.com/images/item_905.jpg
+Caesar Salad #906,Served with a side of bread.,Bowl,18.12,443,6.3,23.7,42.2,https://example.com/images/item_906.jpg
+Vegan Buddha Bowl #907,Delicious and freshly prepared.,Pasta,8.67,596,22.4,15.1,22.7,https://example.com/images/item_907.jpg
+Spaghetti Bolognese #908,Topped with fresh herbs.,Pasta,15.63,685,28.4,21.6,78.4,https://example.com/images/item_908.jpg
+Caesar Salad #909,Rich in flavor and nutrients.,Wrap,19.11,658,27.4,16.4,24.9,https://example.com/images/item_909.jpg
+Pepperoni Pizza #910,Topped with fresh herbs.,Pasta,18.77,518,29.8,19.0,78.7,https://example.com/images/item_910.jpg
+Tomato Soup #911,Delicious and freshly prepared.,Sandwich,15.25,756,12.8,3.3,54.2,https://example.com/images/item_911.jpg
+Tomato Soup #912,Served with a side of bread.,Pizza,17.98,740,9.6,14.6,25.7,https://example.com/images/item_912.jpg
+Chocolate Cake #913,Served with a side of bread.,Soup,10.86,428,18.5,20.2,41.2,https://example.com/images/item_913.jpg
+Spaghetti Bolognese #914,A customer favorite with premium ingredients.,Burger,8.43,194,12.1,19.0,39.0,https://example.com/images/item_914.jpg
+Greek Salad #915,Served with a side of bread.,Wrap,14.98,536,20.7,7.0,44.1,https://example.com/images/item_915.jpg
+Grilled Chicken Sandwich #916,Perfect for lunch or dinner.,Drink,14.45,269,14.4,16.2,67.6,https://example.com/images/item_916.jpg
+Chocolate Cake #917,Topped with fresh herbs.,Sandwich,7.53,265,12.0,7.9,36.6,https://example.com/images/item_917.jpg
+Margherita Pizza #918,Served with a side of bread.,Bowl,7.69,667,29.7,7.1,20.2,https://example.com/images/item_918.jpg
+Vegan Buddha Bowl #919,Rich in flavor and nutrients.,Sandwich,18.03,182,29.4,4.4,35.0,https://example.com/images/item_919.jpg
+Chicken Alfredo Pasta #920,Rich in flavor and nutrients.,Burger,6.99,212,6.8,20.1,13.9,https://example.com/images/item_920.jpg
+Chicken Alfredo Pasta #921,Perfect for lunch or dinner.,Drink,17.48,668,11.3,12.6,11.3,https://example.com/images/item_921.jpg
+Turkey Club Sandwich #922,Perfect for lunch or dinner.,Pizza,16.33,293,15.5,12.5,29.9,https://example.com/images/item_922.jpg
+Pepperoni Pizza #923,Rich in flavor and nutrients.,Pasta,13.73,437,8.0,6.7,78.2,https://example.com/images/item_923.jpg
+Tomato Soup #924,Perfect for lunch or dinner.,Salad,13.75,720,9.7,24.3,33.7,https://example.com/images/item_924.jpg
+Spaghetti Bolognese #925,Served with a side of bread.,Pizza,17.41,789,22.6,15.8,15.0,https://example.com/images/item_925.jpg
+Cheeseburger #926,Rich in flavor and nutrients.,Salad,7.85,556,23.3,5.9,28.2,https://example.com/images/item_926.jpg
+Grilled Chicken Sandwich #927,A customer favorite with premium ingredients.,Dessert,5.97,130,17.9,13.6,41.5,https://example.com/images/item_927.jpg
+Tomato Soup #928,Delicious and freshly prepared.,Wrap,17.03,690,26.4,8.7,51.1,https://example.com/images/item_928.jpg
+Grilled Chicken Sandwich #929,A customer favorite with premium ingredients.,Dessert,19.16,375,16.0,18.6,55.6,https://example.com/images/item_929.jpg
+Spaghetti Bolognese #930,Topped with fresh herbs.,Soup,6.45,787,20.3,11.2,49.8,https://example.com/images/item_930.jpg
+Caesar Salad #931,A customer favorite with premium ingredients.,Salad,18.58,499,29.6,12.2,18.3,https://example.com/images/item_931.jpg
+Quinoa Salad #932,Delicious and freshly prepared.,Burger,15.46,146,6.7,20.4,45.0,https://example.com/images/item_932.jpg
+Caesar Salad #933,Topped with fresh herbs.,Salad,13.99,366,21.9,13.4,23.5,https://example.com/images/item_933.jpg
+Vegan Buddha Bowl #934,Rich in flavor and nutrients.,Sandwich,15.14,131,12.4,18.2,16.3,https://example.com/images/item_934.jpg
+Chicken Alfredo Pasta #935,Perfect for lunch or dinner.,Pizza,9.3,282,21.9,14.4,74.4,https://example.com/images/item_935.jpg
+Chicken Alfredo Pasta #936,A customer favorite with premium ingredients.,Drink,9.44,183,10.2,12.6,37.3,https://example.com/images/item_936.jpg
+Cheeseburger #937,Rich in flavor and nutrients.,Soup,19.44,235,5.9,10.7,74.6,https://example.com/images/item_937.jpg
+Grilled Chicken Sandwich #938,Rich in flavor and nutrients.,Bowl,17.96,297,22.3,24.5,14.7,https://example.com/images/item_938.jpg
+Chicken Alfredo Pasta #939,Rich in flavor and nutrients.,Bowl,20.0,436,22.0,22.4,21.8,https://example.com/images/item_939.jpg
+Turkey Club Sandwich #940,Delicious and freshly prepared.,Pizza,15.38,155,11.6,19.7,54.6,https://example.com/images/item_940.jpg
+Margherita Pizza #941,Served with a side of bread.,Salad,12.66,568,25.8,15.3,30.8,https://example.com/images/item_941.jpg
+Caesar Salad #942,Topped with fresh herbs.,Pizza,10.17,325,27.1,16.6,77.3,https://example.com/images/item_942.jpg
+Turkey Club Sandwich #943,Delicious and freshly prepared.,Pasta,13.11,502,17.2,7.1,19.8,https://example.com/images/item_943.jpg
+Turkey Club Sandwich #944,Delicious and freshly prepared.,Dessert,12.14,208,6.5,18.8,62.9,https://example.com/images/item_944.jpg
+Quinoa Salad #945,Served with a side of bread.,Dessert,12.12,622,19.1,7.2,29.8,https://example.com/images/item_945.jpg
+Chocolate Cake #946,Delicious and freshly prepared.,Bowl,10.07,592,27.4,11.8,11.2,https://example.com/images/item_946.jpg
+Chicken Alfredo Pasta #947,Topped with fresh herbs.,Wrap,5.88,246,28.2,12.0,34.0,https://example.com/images/item_947.jpg
+Veggie Wrap #948,Delicious and freshly prepared.,Pizza,12.56,213,20.0,4.4,69.7,https://example.com/images/item_948.jpg
+Greek Salad #949,A customer favorite with premium ingredients.,Burger,15.03,607,20.7,11.5,13.4,https://example.com/images/item_949.jpg
+Quinoa Salad #950,Delicious and freshly prepared.,Bowl,8.8,444,11.4,9.1,70.3,https://example.com/images/item_950.jpg
+Chocolate Cake #951,Rich in flavor and nutrients.,Drink,6.58,690,15.3,9.1,38.0,https://example.com/images/item_951.jpg
+Spaghetti Bolognese #952,Served with a side of bread.,Soup,12.17,185,29.8,7.3,53.1,https://example.com/images/item_952.jpg
+Grilled Chicken Sandwich #953,Delicious and freshly prepared.,Sandwich,17.52,127,22.3,24.2,51.4,https://example.com/images/item_953.jpg
+Caesar Salad #954,Topped with fresh herbs.,Pasta,12.53,518,14.2,23.8,12.1,https://example.com/images/item_954.jpg
+Quinoa Salad #955,Topped with fresh herbs.,Bowl,12.44,444,27.4,20.9,36.7,https://example.com/images/item_955.jpg
+Spaghetti Bolognese #956,Served with a side of bread.,Pizza,13.22,670,22.6,20.5,24.8,https://example.com/images/item_956.jpg
+Vegan Buddha Bowl #957,Perfect for lunch or dinner.,Pasta,12.29,672,19.3,17.5,39.1,https://example.com/images/item_957.jpg
+Chicken Alfredo Pasta #958,Perfect for lunch or dinner.,Pizza,15.62,102,12.6,9.1,46.5,https://example.com/images/item_958.jpg
+Greek Salad #959,Delicious and freshly prepared.,Wrap,9.06,787,13.8,24.6,28.3,https://example.com/images/item_959.jpg
+Margherita Pizza #960,Perfect for lunch or dinner.,Pizza,6.26,564,16.8,4.4,37.2,https://example.com/images/item_960.jpg
+Margherita Pizza #961,Served with a side of bread.,Wrap,15.19,205,8.3,23.0,69.1,https://example.com/images/item_961.jpg
+Quinoa Salad #962,Rich in flavor and nutrients.,Drink,7.97,122,10.6,9.5,66.9,https://example.com/images/item_962.jpg
+Quinoa Salad #963,A customer favorite with premium ingredients.,Salad,17.6,718,21.8,7.7,46.6,https://example.com/images/item_963.jpg
+Caesar Salad #964,Rich in flavor and nutrients.,Soup,15.77,148,6.1,24.7,13.9,https://example.com/images/item_964.jpg
+Lemonade #965,A customer favorite with premium ingredients.,Sandwich,14.42,116,9.2,4.5,76.9,https://example.com/images/item_965.jpg
+Chicken Alfredo Pasta #966,Rich in flavor and nutrients.,Burger,14.07,590,22.4,18.5,30.1,https://example.com/images/item_966.jpg
+Turkey Club Sandwich #967,Served with a side of bread.,Sandwich,15.73,756,18.3,24.2,26.0,https://example.com/images/item_967.jpg
+Chocolate Cake #968,Rich in flavor and nutrients.,Pizza,5.43,510,24.8,14.0,22.3,https://example.com/images/item_968.jpg
+Caesar Salad #969,Perfect for lunch or dinner.,Burger,10.43,294,20.6,13.2,28.6,https://example.com/images/item_969.jpg
+Caesar Salad #970,Delicious and freshly prepared.,Soup,10.94,165,24.4,4.0,47.1,https://example.com/images/item_970.jpg
+Spaghetti Bolognese #971,A customer favorite with premium ingredients.,Burger,8.99,792,23.4,4.4,29.2,https://example.com/images/item_971.jpg
+Chocolate Cake #972,Topped with fresh herbs.,Soup,7.61,459,23.3,8.8,72.5,https://example.com/images/item_972.jpg
+Margherita Pizza #973,Rich in flavor and nutrients.,Salad,14.38,139,18.5,6.9,22.8,https://example.com/images/item_973.jpg
+Margherita Pizza #974,Topped with fresh herbs.,Salad,5.95,219,9.8,24.0,69.7,https://example.com/images/item_974.jpg
+Tomato Soup #975,Perfect for lunch or dinner.,Burger,10.56,226,10.0,9.2,57.1,https://example.com/images/item_975.jpg
+Vegan Buddha Bowl #976,Served with a side of bread.,Pizza,15.91,687,26.5,7.4,49.7,https://example.com/images/item_976.jpg
+Chocolate Cake #977,A customer favorite with premium ingredients.,Soup,13.82,627,5.2,17.6,48.6,https://example.com/images/item_977.jpg
+Quinoa Salad #978,Served with a side of bread.,Dessert,19.66,519,18.7,15.9,64.2,https://example.com/images/item_978.jpg
+Quinoa Salad #979,Rich in flavor and nutrients.,Sandwich,8.7,506,12.7,21.0,57.9,https://example.com/images/item_979.jpg
+Quinoa Salad #980,Served with a side of bread.,Soup,19.15,143,24.7,14.4,56.1,https://example.com/images/item_980.jpg
+Grilled Chicken Sandwich #981,Served with a side of bread.,Pasta,5.1,281,21.5,23.2,12.8,https://example.com/images/item_981.jpg
+Cheeseburger #982,Served with a side of bread.,Bowl,14.32,320,8.9,10.5,50.6,https://example.com/images/item_982.jpg
+Chocolate Cake #983,Topped with fresh herbs.,Wrap,8.6,674,24.6,4.9,52.6,https://example.com/images/item_983.jpg
+Caesar Salad #984,A customer favorite with premium ingredients.,Pizza,13.04,501,15.8,21.5,39.3,https://example.com/images/item_984.jpg
+Caesar Salad #985,A customer favorite with premium ingredients.,Salad,7.58,789,9.4,9.8,79.8,https://example.com/images/item_985.jpg
+Grilled Chicken Sandwich #986,A customer favorite with premium ingredients.,Drink,8.67,657,18.4,23.9,78.0,https://example.com/images/item_986.jpg
+Lemonade #987,Rich in flavor and nutrients.,Drink,12.47,216,12.4,8.8,79.9,https://example.com/images/item_987.jpg
+Chicken Alfredo Pasta #988,A customer favorite with premium ingredients.,Bowl,13.88,329,22.6,6.5,66.9,https://example.com/images/item_988.jpg
+Lemonade #989,Delicious and freshly prepared.,Salad,13.38,316,22.8,23.9,70.7,https://example.com/images/item_989.jpg
+Margherita Pizza #990,Delicious and freshly prepared.,Bowl,17.9,588,28.8,20.6,31.8,https://example.com/images/item_990.jpg
+Veggie Wrap #991,A customer favorite with premium ingredients.,Wrap,17.63,672,26.8,20.9,68.7,https://example.com/images/item_991.jpg
+Greek Salad #992,Delicious and freshly prepared.,Pasta,8.02,735,7.3,8.5,35.5,https://example.com/images/item_992.jpg
+Vegan Buddha Bowl #993,Perfect for lunch or dinner.,Pasta,10.15,241,26.2,12.2,66.0,https://example.com/images/item_993.jpg
+Veggie Wrap #994,Perfect for lunch or dinner.,Sandwich,14.15,593,6.6,21.5,67.4,https://example.com/images/item_994.jpg
+Lemonade #995,Served with a side of bread.,Drink,5.7,435,19.2,16.0,26.7,https://example.com/images/item_995.jpg
+Spaghetti Bolognese #996,Delicious and freshly prepared.,Drink,15.53,329,16.2,4.1,28.6,https://example.com/images/item_996.jpg
+Spaghetti Bolognese #997,A customer favorite with premium ingredients.,Bowl,13.51,608,7.8,8.9,28.1,https://example.com/images/item_997.jpg
+Turkey Club Sandwich #998,A customer favorite with premium ingredients.,Pizza,19.45,557,16.9,7.9,28.5,https://example.com/images/item_998.jpg
+Tomato Soup #999,Topped with fresh herbs.,Salad,14.8,237,23.9,9.3,29.5,https://example.com/images/item_999.jpg
+Spaghetti Bolognese #1000,Served with a side of bread.,Soup,11.81,629,27.7,24.4,62.9,https://example.com/images/item_1000.jpg
